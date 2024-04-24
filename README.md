@@ -10,12 +10,12 @@ This API provides access to Indonesian administrative regions including province
     ```json
     [
         {
-            "id": 11,
-            "value": "Aceh"
+            "id": 31,
+            "value": "DKI Jakarta"
         },
         {
-            "id": 12,
-            "value": "Sumatera Utara"
+            "id": 32,
+            "value": "Jawa Barat"
         },
         // More provinces...
     ]
@@ -23,21 +23,21 @@ This API provides access to Indonesian administrative regions including province
 
 - **Regencies:** Access the list of regencies for a specific province by providing the province ID.
   - URL: `https://ihsaninh.github.io/wilayah-indonesia/<province_id>/regencies.json`
-  - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/11/regencies.json](https://ihsaninh.github.io/wilayah-indonesia/11/regencies.json)
+  - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/32/regencies.json](https://ihsaninh.github.io/wilayah-indonesia/32/regencies.json)
   - Example response:
     ```json
     [
         {
-            "id": 1101,
-            "province_id": 11,
-            "type": "Kota",
-            "value": "Kota Sabang"
+            "id": 3201,
+            "province_id": 32,
+            "type": "Kabupaten",
+            "value": "Bogor"
         },
         {
-            "id": 1102,
-            "province_id": 11,
+            "id": 3271,
+            "province_id": 32,
             "type": "Kota",
-            "value": "Kota Langsa"
+            "value": "Kota Bogor"
         },
         // More regencies...
     ]
@@ -45,21 +45,21 @@ This API provides access to Indonesian administrative regions including province
 
 - **Districts:** Access the list of districts for a specific regency within a province.
   - URL: `https://ihsaninh.github.io/wilayah-indonesia/<province_id>/<regency_id>/district.json`
-  - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/11/1101/district.json](https://ihsaninh.github.io/wilayah-indonesia/11/1101/district.json)
+  - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/32/3201/district.json](https://ihsaninh.github.io/wilayah-indonesia/32/3201/district.json)
   - Example response:
     ```json
     [
         {
-            "id": 1101010,
-            "province_id": 11,
-            "regency_id": 1101,
-            "value": "Sukakarya"
+            "id": 320101,
+            "province_id": 32,
+            "regency_id": 3201,
+            "value": "Cibinong"
         },
         {
-            "id": 1101020,
-            "province_id": 11,
-            "regency_id": 1101,
-            "value": "Sukajaya"
+            "id": 320107,
+            "province_id": 32,
+            "regency_id": 3201,
+            "value": "Cileungsi"
         },
         // More districts...
     ]
@@ -67,23 +67,25 @@ This API provides access to Indonesian administrative regions including province
 
 - **Subdistricts:** Access the list of subdistricts for a specific district within a regency and province.
   - URL: `https://ihsaninh.github.io/wilayah-indonesia/<province_id>/<regency_id>/<district_id>/subdistrict.json`
-  - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/11/1101/1101010/subdistrict.json](https://ihsaninh.github.io/wilayah-indonesia/11/1101/1101010/subdistrict.json)
+  - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/32/3201/320101/subdistrict.json](https://ihsaninh.github.io/wilayah-indonesia/32/3201/320101/subdistrict.json)
   - Example response:
     ```json
     [
         {
-            "id": 1101010001,
-            "province_id": 11,
-            "regency_id": 1101,
-            "district_id": 1101010,
-            "value": "Sukakarya"
+            "id": 320101,
+            "province_id": 32,
+            "regency_id": 3201,
+            "district_id": 320101,
+            "value": "Nanggewer",
+            "postal_code": "16912"
         },
         {
-            "id": 1101010002,
-            "province_id": 11,
-            "regency_id": 1101,
-            "district_id": 1101010,
-            "value": "Sukajaya"
+            "id": 320101,
+            "province_id": 32,
+            "regency_id": 3201,
+            "district_id": 320101,
+            "value": "Pakansari",
+            "postal_code": "16915"
         },
         // More subdistricts...
     ]
@@ -92,10 +94,6 @@ This API provides access to Indonesian administrative regions including province
 ## Usage
 
 To access the data, simply make HTTP GET requests to the provided URLs corresponding to the desired administrative region level. The response will be in JSON format containing the relevant information about the administrative regions.
-
-## Example
-
-To fetch the list of regencies for the province of Aceh (ID: 11), you can send a GET request to [https://ihsaninh.github.io/wilayah-indonesia/11/regencies.json](https://ihsaninh.github.io/wilayah-indonesia/11/regencies.json).
 
 ## Notes
 
