@@ -4,7 +4,7 @@ This API provides access to Indonesian administrative regions including province
 
 ## Endpoints
 
-- **Provinces:** Access the list of provinces in Indonesia.
+- **Provinces (Provinsi):** Access the list of provinces in Indonesia.
   - URL: [https://ihsaninh.github.io/wilayah-indonesia/provinces.json](https://ihsaninh.github.io/wilayah-indonesia/provinces.json)
   - Example response:
     ```json
@@ -21,7 +21,7 @@ This API provides access to Indonesian administrative regions including province
     ]
     ```
 
-- **Regencies:** Access the list of regencies for a specific province by providing the province ID.
+- **Regencies (Kabupaten/Kota):** Access the list of regencies for a specific province by providing the province ID.
   - URL: `https://ihsaninh.github.io/wilayah-indonesia/<province_id>/regencies.json`
   - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/32/regencies.json](https://ihsaninh.github.io/wilayah-indonesia/32/regencies.json)
   - Example response:
@@ -43,7 +43,7 @@ This API provides access to Indonesian administrative regions including province
     ]
     ```
 
-- **Districts:** Access the list of districts for a specific regency within a province.
+- **Districts (Kecamatan):** Access the list of districts for a specific regency within a province.
   - URL: `https://ihsaninh.github.io/wilayah-indonesia/<province_id>/<regency_id>/district.json`
   - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/32/3201/district.json](https://ihsaninh.github.io/wilayah-indonesia/32/3201/district.json)
   - Example response:
@@ -65,7 +65,7 @@ This API provides access to Indonesian administrative regions including province
     ]
     ```
 
-- **Subdistricts:** Access the list of subdistricts for a specific district within a regency and province.
+- **Subdistricts (Desa/Kelurahan):** Access the list of subdistricts for a specific district within a regency and province.
   - URL: `https://ihsaninh.github.io/wilayah-indonesia/<province_id>/<regency_id>/<district_id>/subdistrict.json`
   - Example URL: [https://ihsaninh.github.io/wilayah-indonesia/32/3201/320101/subdistrict.json](https://ihsaninh.github.io/wilayah-indonesia/32/3201/320101/subdistrict.json)
   - Example response:
