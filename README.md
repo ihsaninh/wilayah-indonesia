@@ -101,4 +101,4 @@ To access the data, simply make HTTP GET requests to the provided URLs correspon
 - The IDs for provinces, regencies, districts, and subdistricts are unique identifiers for each administrative region.
 - Ensure proper handling of HTTP requests and error responses in your application when utilizing this API.
 
-Feel free to explore the API and integrate it into your applications as needed. If you encounter any issues or have further inquiries, please don't hesitate to contact the API provider.
+Feel free to explore the API and integrate it into your applications as needed. If you encounter any issues or have further inquiries, please don't hesitate to [open a GitHub issue](https://github.com/ihsaninh/wilayah-indonesia/issues) in this repository for assistance. You can also reach out to me through my social media channels listed on [my GitHub profile](https://github.com/ihsaninh).
