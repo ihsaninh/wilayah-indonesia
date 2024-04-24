@@ -1,0 +1,26 @@
+[
+  {
+    "id": 920711,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920711,
+    "value": "Syeiwar",
+    "postal_code": "98332"
+  },
+  {
+    "id": 920711,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920711,
+    "value": "Waprak",
+    "postal_code": "98332"
+  },
+  {
+    "id": 920711,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920711,
+    "value": "Yomber",
+    "postal_code": "98332"
+  }
+]

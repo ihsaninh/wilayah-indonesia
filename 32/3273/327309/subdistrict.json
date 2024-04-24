@@ -1,0 +1,26 @@
+[
+  {
+    "id": 327309,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327309,
+    "value": "Cihapit",
+    "postal_code": "40114"
+  },
+  {
+    "id": 327309,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327309,
+    "value": "Citarum",
+    "postal_code": "40115"
+  },
+  {
+    "id": 327309,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327309,
+    "value": "Tamansari",
+    "postal_code": "40116"
+  }
+]

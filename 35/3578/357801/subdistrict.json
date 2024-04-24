@@ -1,0 +1,34 @@
+[
+  {
+    "id": 357801,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357801,
+    "value": "Karangpilang",
+    "postal_code": "60221"
+  },
+  {
+    "id": 357801,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357801,
+    "value": "Kebraon",
+    "postal_code": "60222"
+  },
+  {
+    "id": 357801,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357801,
+    "value": "Kedurus",
+    "postal_code": "60223"
+  },
+  {
+    "id": 357801,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357801,
+    "value": "Warugunung (Waru Gunung)",
+    "postal_code": "60221"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 170301,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170301,
+    "value": "Apoho",
+    "postal_code": "38387"
+  },
+  {
+    "id": 170301,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170301,
+    "value": "Banjar Sari",
+    "postal_code": "38387"
+  },
+  {
+    "id": 170301,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170301,
+    "value": "Kaana",
+    "postal_code": "38387"
+  },
+  {
+    "id": 170301,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170301,
+    "value": "Kahyapu (Khayapu)",
+    "postal_code": "38387"
+  },
+  {
+    "id": 170301,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170301,
+    "value": "Malakoni",
+    "postal_code": "38387"
+  },
+  {
+    "id": 170301,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170301,
+    "value": "Meok",
+    "postal_code": "38387"
+  }
+]

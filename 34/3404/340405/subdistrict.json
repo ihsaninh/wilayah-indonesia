@@ -1,0 +1,42 @@
+[
+  {
+    "id": 340405,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340405,
+    "value": "Margoagung",
+    "postal_code": "55561"
+  },
+  {
+    "id": 340405,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340405,
+    "value": "Margodadi",
+    "postal_code": "55561"
+  },
+  {
+    "id": 340405,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340405,
+    "value": "Margokaton",
+    "postal_code": "55561"
+  },
+  {
+    "id": 340405,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340405,
+    "value": "Margoluwih",
+    "postal_code": "55561"
+  },
+  {
+    "id": 340405,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340405,
+    "value": "Margomulyo",
+    "postal_code": "55561"
+  }
+]

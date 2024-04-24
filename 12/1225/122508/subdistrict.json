@@ -1,0 +1,42 @@
+[
+  {
+    "id": 122508,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122508,
+    "value": "Bukit Tinggi",
+    "postal_code": "22862"
+  },
+  {
+    "id": 122508,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122508,
+    "value": "Hilibadalu",
+    "postal_code": "22862"
+  },
+  {
+    "id": 122508,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122508,
+    "value": "Hilisangawola",
+    "postal_code": "22862"
+  },
+  {
+    "id": 122508,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122508,
+    "value": "Lawelu",
+    "postal_code": "22862"
+  },
+  {
+    "id": 122508,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122508,
+    "value": "Saloo",
+    "postal_code": "22862"
+  }
+]

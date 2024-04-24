@@ -1,0 +1,42 @@
+[
+  {
+    "id": 340411,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340411,
+    "value": "Bimomartani (Bimo Martani)",
+    "postal_code": "55584"
+  },
+  {
+    "id": 340411,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340411,
+    "value": "Sindumartani",
+    "postal_code": "55584"
+  },
+  {
+    "id": 340411,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340411,
+    "value": "Umbulmartani",
+    "postal_code": "55584"
+  },
+  {
+    "id": 340411,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340411,
+    "value": "Wedomartani",
+    "postal_code": "55584"
+  },
+  {
+    "id": 340411,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340411,
+    "value": "Widodomartani (Widodo Martani)",
+    "postal_code": "55584"
+  }
+]

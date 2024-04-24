@@ -1,0 +1,34 @@
+[
+  {
+    "id": 650312,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650312,
+    "value": "Aji Kuning",
+    "postal_code": "77487"
+  },
+  {
+    "id": 650312,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650312,
+    "value": "Bukit Harapan",
+    "postal_code": "77487"
+  },
+  {
+    "id": 650312,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650312,
+    "value": "Maspul",
+    "postal_code": "77487"
+  },
+  {
+    "id": 650312,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650312,
+    "value": "Sungai Limau (Sei Limau)",
+    "postal_code": "77487"
+  }
+]

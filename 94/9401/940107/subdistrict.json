@@ -1,0 +1,50 @@
+[
+  {
+    "id": 940107,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940107,
+    "value": "Biha",
+    "postal_code": "98863"
+  },
+  {
+    "id": 940107,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940107,
+    "value": "Lagari Jaya (Legari Jaya)",
+    "postal_code": "98863"
+  },
+  {
+    "id": 940107,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940107,
+    "value": "Maidei",
+    "postal_code": "98863"
+  },
+  {
+    "id": 940107,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940107,
+    "value": "Makimi",
+    "postal_code": "98863"
+  },
+  {
+    "id": 940107,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940107,
+    "value": "Manunggal Jaya",
+    "postal_code": "98863"
+  },
+  {
+    "id": 940107,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940107,
+    "value": "Nifasi",
+    "postal_code": "98863"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 740315,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740315,
+    "value": "Laiworu",
+    "postal_code": "93614"
+  },
+  {
+    "id": 740315,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740315,
+    "value": "Sidodadi",
+    "postal_code": "93614"
+  },
+  {
+    "id": 740315,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740315,
+    "value": "Wakorambu",
+    "postal_code": "93614"
+  },
+  {
+    "id": 740315,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740315,
+    "value": "Wawesa",
+    "postal_code": "93614"
+  }
+]

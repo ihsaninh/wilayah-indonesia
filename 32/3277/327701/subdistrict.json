@@ -1,0 +1,42 @@
+[
+  {
+    "id": 327701,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327701,
+    "value": "Cibeber",
+    "postal_code": "40531"
+  },
+  {
+    "id": 327701,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327701,
+    "value": "Cibeureum",
+    "postal_code": "40535"
+  },
+  {
+    "id": 327701,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327701,
+    "value": "Leuwigajah",
+    "postal_code": "40532"
+  },
+  {
+    "id": 327701,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327701,
+    "value": "Melong",
+    "postal_code": "40534"
+  },
+  {
+    "id": 327701,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327701,
+    "value": "Utama",
+    "postal_code": "40533"
+  }
+]

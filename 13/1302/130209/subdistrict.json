@@ -1,0 +1,74 @@
+[
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Bukik Bais (Bukit Bais)",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Guguak Sarai (Guguk Sarai)",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Indudur",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Koto Laweh",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Pianggu",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Siaro Aro",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Sungai Durian",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Sungai Jambur",
+    "postal_code": "27388"
+  },
+  {
+    "id": 130209,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130209,
+    "value": "Taruang Taruang",
+    "postal_code": "27388"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Baok",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Berong",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Lampeong I",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Lampeong II",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Lawarang",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Linon Besi I",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Linon Besi II",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Muara Mea",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Payang",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Tambaba",
+    "postal_code": "73871"
+  },
+  {
+    "id": 620503,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620503,
+    "value": "Tanjung Harapan",
+    "postal_code": "73871"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 320408,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320408,
+    "value": "Bojongsari",
+    "postal_code": "40288"
+  },
+  {
+    "id": 320408,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320408,
+    "value": "Bojongsoang",
+    "postal_code": "40288"
+  },
+  {
+    "id": 320408,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320408,
+    "value": "Buahbatu",
+    "postal_code": "40287"
+  },
+  {
+    "id": 320408,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320408,
+    "value": "Cipagalo",
+    "postal_code": "40287"
+  },
+  {
+    "id": 320408,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320408,
+    "value": "Lengkong",
+    "postal_code": "40287"
+  },
+  {
+    "id": 320408,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320408,
+    "value": "Tegalluar",
+    "postal_code": "40287"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 327510,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327510,
+    "value": "Jatikarya",
+    "postal_code": "17435"
+  },
+  {
+    "id": 327510,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327510,
+    "value": "Jatiraden",
+    "postal_code": "17433"
+  },
+  {
+    "id": 327510,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327510,
+    "value": "Jatirangga",
+    "postal_code": "17434"
+  },
+  {
+    "id": 327510,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327510,
+    "value": "Jatiranggon",
+    "postal_code": "17432"
+  },
+  {
+    "id": 327510,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327510,
+    "value": "Jatisampurna",
+    "postal_code": "17433"
+  }
+]

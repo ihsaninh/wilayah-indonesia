@@ -1,0 +1,42 @@
+[
+  {
+    "id": 210305,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210305,
+    "value": "Binjai",
+    "postal_code": "29782"
+  },
+  {
+    "id": 210305,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210305,
+    "value": "Mekar Jaya",
+    "postal_code": "29782"
+  },
+  {
+    "id": 210305,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210305,
+    "value": "Piantengah (Pian Tengah)",
+    "postal_code": "29782"
+  },
+  {
+    "id": 210305,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210305,
+    "value": "Sedanau",
+    "postal_code": "29782"
+  },
+  {
+    "id": 210305,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210305,
+    "value": "Selaut",
+    "postal_code": "29782"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Bolang",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Gempolkarya",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Kutamakmur",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Medankarya",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Pisangsambo",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Sabajaya",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Srijaya",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Srikamulyan",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Sumurlaban",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Tambaksari",
+    "postal_code": "41357"
+  },
+  {
+    "id": 321509,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321509,
+    "value": "Tambaksumur",
+    "postal_code": "41357"
+  }
+]

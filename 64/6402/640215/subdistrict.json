@@ -1,0 +1,42 @@
+[
+  {
+    "id": 640215,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640215,
+    "value": "Jawa",
+    "postal_code": "75251"
+  },
+  {
+    "id": 640215,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640215,
+    "value": "Pendingin",
+    "postal_code": "75256"
+  },
+  {
+    "id": 640215,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640215,
+    "value": "Sanga-Sanga Dalam",
+    "postal_code": "75254"
+  },
+  {
+    "id": 640215,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640215,
+    "value": "Sanga-Sanga Muara",
+    "postal_code": "75251"
+  },
+  {
+    "id": 640215,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640215,
+    "value": "Sari Jaya (Sarijaya)",
+    "postal_code": "75251"
+  }
+]

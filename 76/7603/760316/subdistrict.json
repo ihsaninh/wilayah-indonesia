@@ -1,0 +1,90 @@
+[
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Aralle Timur",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Buntumalangka",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Kabae",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Kebanga",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Penatangan",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Ranteberan",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Salurindu",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Salutambun",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Salutambun Barat",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Salutambun Timur",
+    "postal_code": "91374"
+  },
+  {
+    "id": 760316,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760316,
+    "value": "Taora",
+    "postal_code": "91374"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Kadoodan",
+    "postal_code": "95513"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Madidir Unet",
+    "postal_code": "95516"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Madidir Ure",
+    "postal_code": "95515"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Madidir Weru",
+    "postal_code": "95514"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Paceda",
+    "postal_code": "95541"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Wangurer Barat",
+    "postal_code": "95541"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Wangurer Timur",
+    "postal_code": "95541"
+  },
+  {
+    "id": 717202,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717202,
+    "value": "Wangurer Utara",
+    "postal_code": "95541"
+  }
+]

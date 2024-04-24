@@ -1,0 +1,42 @@
+[
+  {
+    "id": 920425,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920425,
+    "value": "Alma",
+    "postal_code": "98233"
+  },
+  {
+    "id": 920425,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920425,
+    "value": "Klamit",
+    "postal_code": "98233"
+  },
+  {
+    "id": 920425,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920425,
+    "value": "Kofalit",
+    "postal_code": "98233"
+  },
+  {
+    "id": 920425,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920425,
+    "value": "Mlabolo",
+    "postal_code": "98233"
+  },
+  {
+    "id": 920425,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920425,
+    "value": "Wenslolo",
+    "postal_code": "98233"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Beringin",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Kotopaitberingin (Koto Pait Beringin)",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Kualapenaso (Kuala Penaso)",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Melibur",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Seraiwangi (Serai Wangi)",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Tasikserai (Tasik Serai)",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Tasikserai Barat (Tasik Serai Barat)",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Tasikserai Timur (Tasik Serai Timur)",
+    "postal_code": "28786"
+  },
+  {
+    "id": 140315,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140315,
+    "value": "Tasiktebingserai (Tasik Tebing Serai)",
+    "postal_code": "28786"
+  }
+]

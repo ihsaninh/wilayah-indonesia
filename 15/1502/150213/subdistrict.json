@@ -1,0 +1,66 @@
+[
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Karang Anyar",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Limbur Merangin",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Mampun Baru",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Papit",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Pinang Merah",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "PulauTujuh",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Simpang Limbur Merangin",
+    "postal_code": "37318"
+  },
+  {
+    "id": 150213,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150213,
+    "value": "Tanjung Lamin",
+    "postal_code": "37318"
+  }
+]

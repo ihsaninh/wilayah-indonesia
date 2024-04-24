@@ -1,0 +1,50 @@
+[
+  {
+    "id": 360225,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360225,
+    "value": "Banjaririgasi (Banjar Irigasi)",
+    "postal_code": "42351"
+  },
+  {
+    "id": 360225,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360225,
+    "value": "Banjarsari",
+    "postal_code": "42351"
+  },
+  {
+    "id": 360225,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360225,
+    "value": "Ciladaeun",
+    "postal_code": "42351"
+  },
+  {
+    "id": 360225,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360225,
+    "value": "Lebakgedong",
+    "postal_code": "42351"
+  },
+  {
+    "id": 360225,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360225,
+    "value": "Lebaksangka",
+    "postal_code": "42351"
+  },
+  {
+    "id": 360225,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360225,
+    "value": "Lebaksitu",
+    "postal_code": "42351"
+  }
+]

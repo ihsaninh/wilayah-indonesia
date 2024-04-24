@@ -1,0 +1,26 @@
+[
+  {
+    "id": 650106,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650106,
+    "value": "Salimbatu (Salim Batu)",
+    "postal_code": "77216"
+  },
+  {
+    "id": 650106,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650106,
+    "value": "Silva Rahayu",
+    "postal_code": "77216"
+  },
+  {
+    "id": 650106,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650106,
+    "value": "Tanjung Buka",
+    "postal_code": "77216"
+  }
+]

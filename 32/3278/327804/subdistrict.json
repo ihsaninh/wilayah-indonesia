@@ -1,0 +1,50 @@
+[
+  {
+    "id": 327804,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327804,
+    "value": "Indihiang",
+    "postal_code": "46151"
+  },
+  {
+    "id": 327804,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327804,
+    "value": "Panyingkiran",
+    "postal_code": "46411"
+  },
+  {
+    "id": 327804,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327804,
+    "value": "Parakannyasag",
+    "postal_code": "46151"
+  },
+  {
+    "id": 327804,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327804,
+    "value": "Sirnagalih",
+    "postal_code": "46151"
+  },
+  {
+    "id": 327804,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327804,
+    "value": "Sukamaju Kaler (Sukamajukaler)",
+    "postal_code": "46151"
+  },
+  {
+    "id": 327804,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327804,
+    "value": "Sukamaju Kidul (Sukamajukidul)",
+    "postal_code": "46151"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 121428,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121428,
+    "value": "Gobo",
+    "postal_code": "22886"
+  },
+  {
+    "id": 121428,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121428,
+    "value": "Gobo Baru",
+    "postal_code": "22886"
+  },
+  {
+    "id": 121428,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121428,
+    "value": "Gondia",
+    "postal_code": "22886"
+  },
+  {
+    "id": 121428,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121428,
+    "value": "Maufa",
+    "postal_code": "22886"
+  },
+  {
+    "id": 121428,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121428,
+    "value": "Silina",
+    "postal_code": "22886"
+  },
+  {
+    "id": 121428,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121428,
+    "value": "Silina Baru",
+    "postal_code": "22886"
+  }
+]

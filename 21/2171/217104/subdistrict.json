@@ -1,0 +1,34 @@
+[
+  {
+    "id": 217104,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217104,
+    "value": "Batu Besar",
+    "postal_code": "29466"
+  },
+  {
+    "id": 217104,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217104,
+    "value": "Kabil",
+    "postal_code": "29467"
+  },
+  {
+    "id": 217104,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217104,
+    "value": "Ngenang",
+    "postal_code": "29468"
+  },
+  {
+    "id": 217104,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217104,
+    "value": "Sambau",
+    "postal_code": "29465"
+  }
+]

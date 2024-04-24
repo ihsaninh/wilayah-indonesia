@@ -1,0 +1,90 @@
+[
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Banua Sibohou",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Berua",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Dahana Hiligodu",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Esiwa",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Hilibanua",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Lasara",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Namohalu",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Orahili",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Sisarahili",
+    "postal_code": "22816"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Sisobahili",
+    "postal_code": "22817"
+  },
+  {
+    "id": 122405,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122405,
+    "value": "Tuhenakhe I",
+    "postal_code": "22816"
+  }
+]

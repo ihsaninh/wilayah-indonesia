@@ -1,0 +1,58 @@
+[
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Batu Anam",
+    "postal_code": "21276"
+  },
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Gunung Melayu",
+    "postal_code": "21276"
+  },
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Perkebunan Aek Nagaga",
+    "postal_code": "21276"
+  },
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Perkebunan Gunung Melayu",
+    "postal_code": "21276"
+  },
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Rahuning",
+    "postal_code": "21276"
+  },
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Rahuning I",
+    "postal_code": "21276"
+  },
+  {
+    "id": 120922,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120922,
+    "value": "Rahuning II",
+    "postal_code": "21276"
+  }
+]

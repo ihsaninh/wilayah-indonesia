@@ -1,0 +1,74 @@
+[
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Alur Tani Dua (Alur Tani II)",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Alur Tani Satu (Alur Tani I)",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Bandar Khalifah",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Bandar Setia",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Harum Sari",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Kaloy",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Perkebunan Pulau Tiga",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Rongoh",
+    "postal_code": "24479"
+  },
+  {
+    "id": 111607,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111607,
+    "value": "Wono Sari",
+    "postal_code": "24479"
+  }
+]

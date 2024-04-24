@@ -1,0 +1,114 @@
+[
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Bongkot",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Dukuhklopo (Dukuh Klopo)",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Kebontemu",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Keplaksari",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Kepuhkembeng",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Mancar",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Morosunggingan",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Ngrandulor (Ngrandu Lor)",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Peterongan",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Senden",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Sumberagung",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Tanjunggunung (Tanjung Gunung)",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Tengaran",
+    "postal_code": "61481"
+  },
+  {
+    "id": 351710,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351710,
+    "value": "Tugusumberjo",
+    "postal_code": "61481"
+  }
+]

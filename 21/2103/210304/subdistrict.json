@@ -1,0 +1,26 @@
+[
+  {
+    "id": 210304,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210304,
+    "value": "Air Putih",
+    "postal_code": "29784"
+  },
+  {
+    "id": 210304,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210304,
+    "value": "Sabang Barat",
+    "postal_code": "29784"
+  },
+  {
+    "id": 210304,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210304,
+    "value": "Sebelat",
+    "postal_code": "29784"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 930122,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930122,
+    "value": "Kawe",
+    "postal_code": "99643"
+  },
+  {
+    "id": 930122,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930122,
+    "value": "Pembri",
+    "postal_code": "99643"
+  },
+  {
+    "id": 930122,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930122,
+    "value": "Sibenda",
+    "postal_code": "99643"
+  },
+  {
+    "id": 930122,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930122,
+    "value": "Wantarma",
+    "postal_code": "99643"
+  },
+  {
+    "id": 930122,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930122,
+    "value": "Wetau",
+    "postal_code": "99643"
+  }
+]

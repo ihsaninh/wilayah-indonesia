@@ -1,0 +1,58 @@
+[
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Ansudu (Ansubi)",
+    "postal_code": "99370"
+  },
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Ansudu Dua (Ansudu II / Srem)",
+    "postal_code": "99370"
+  },
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Betaf",
+    "postal_code": "99370"
+  },
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Betaf Dua (Betaf II / Tamnir)",
+    "postal_code": "99370"
+  },
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Komra",
+    "postal_code": "99370"
+  },
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Sunum (Yamna)",
+    "postal_code": "99370"
+  },
+  {
+    "id": 911004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911004,
+    "value": "Yamben (Jamber/Beneraf)",
+    "postal_code": "99370"
+  }
+]

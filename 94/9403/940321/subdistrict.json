@@ -1,0 +1,42 @@
+[
+  {
+    "id": 940321,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940321,
+    "value": "Bomong Bugopa",
+    "postal_code": "98742"
+  },
+  {
+    "id": 940321,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940321,
+    "value": "Dangipa",
+    "postal_code": "98742"
+  },
+  {
+    "id": 940321,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940321,
+    "value": "Dogomo",
+    "postal_code": "98742"
+  },
+  {
+    "id": 940321,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940321,
+    "value": "Ondegapa",
+    "postal_code": "98742"
+  },
+  {
+    "id": 940321,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940321,
+    "value": "Sogomo",
+    "postal_code": "98742"
+  }
+]

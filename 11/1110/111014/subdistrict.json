@@ -1,0 +1,34 @@
+[
+  {
+    "id": 111014,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111014,
+    "value": "Kayu Menang",
+    "postal_code": "24789"
+  },
+  {
+    "id": 111014,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111014,
+    "value": "Kuala Baru Laut",
+    "postal_code": "24789"
+  },
+  {
+    "id": 111014,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111014,
+    "value": "Kuala Baru Sungai",
+    "postal_code": "24789"
+  },
+  {
+    "id": 111014,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111014,
+    "value": "Suka Jaya",
+    "postal_code": "24789"
+  }
+]

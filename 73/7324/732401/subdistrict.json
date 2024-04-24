@@ -1,0 +1,90 @@
+[
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Balai Kembang",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Kasintuwu",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Koroncia",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Maleku",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Manggala",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Margolembo",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Panca Karsa",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Sindu Agung",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Teromu",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Wonorejo",
+    "postal_code": "92974"
+  },
+  {
+    "id": 732401,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732401,
+    "value": "Wonorejo Timur",
+    "postal_code": "92974"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 920501,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920501,
+    "value": "Aduwei",
+    "postal_code": "98483"
+  },
+  {
+    "id": 920501,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920501,
+    "value": "Atkari",
+    "postal_code": "98483"
+  },
+  {
+    "id": 920501,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920501,
+    "value": "Salafen",
+    "postal_code": "98483"
+  },
+  {
+    "id": 920501,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920501,
+    "value": "Solal",
+    "postal_code": "98483"
+  },
+  {
+    "id": 920501,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920501,
+    "value": "Waigama",
+    "postal_code": "98483"
+  }
+]

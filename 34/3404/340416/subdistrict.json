@@ -1,0 +1,42 @@
+[
+  {
+    "id": 340416,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340416,
+    "value": "Candibinangun (Candi Binangun)",
+    "postal_code": "55582"
+  },
+  {
+    "id": 340416,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340416,
+    "value": "Hargobinangun (Hargo Binangun)",
+    "postal_code": "55582"
+  },
+  {
+    "id": 340416,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340416,
+    "value": "Harjobinangun (Harjo Binangun)",
+    "postal_code": "55582"
+  },
+  {
+    "id": 340416,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340416,
+    "value": "Pakembinangun (Pakem Binangun)",
+    "postal_code": "55582"
+  },
+  {
+    "id": 340416,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340416,
+    "value": "Purwobinangun (Purwo Binangun)",
+    "postal_code": "55582"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Bandar Baru",
+    "postal_code": "23126"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Beurawe",
+    "postal_code": "23124"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Keuramat (Kramat)",
+    "postal_code": "23126"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Kota Baru",
+    "postal_code": "23125"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Kuta Alam",
+    "postal_code": "23121"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Laksana",
+    "postal_code": "23122"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Lambaro Skep",
+    "postal_code": "23127"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Lamdingin",
+    "postal_code": "23127"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Lampula / Lampulo",
+    "postal_code": "23127"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Mulia",
+    "postal_code": "23123"
+  },
+  {
+    "id": 117102,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117102,
+    "value": "Peunayong",
+    "postal_code": "23122"
+  }
+]

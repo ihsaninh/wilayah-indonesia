@@ -1,0 +1,50 @@
+[
+  {
+    "id": 650103,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650103,
+    "value": "Ardi Mulyo (Ardi Mulya)",
+    "postal_code": "77218"
+  },
+  {
+    "id": 650103,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650103,
+    "value": "Karang Agung",
+    "postal_code": "77218"
+  },
+  {
+    "id": 650103,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650103,
+    "value": "Kelubir",
+    "postal_code": "77218"
+  },
+  {
+    "id": 650103,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650103,
+    "value": "Panca Agung",
+    "postal_code": "77218"
+  },
+  {
+    "id": 650103,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650103,
+    "value": "Pimping",
+    "postal_code": "77218"
+  },
+  {
+    "id": 650103,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650103,
+    "value": "Ruhui Rahayu",
+    "postal_code": "77218"
+  }
+]

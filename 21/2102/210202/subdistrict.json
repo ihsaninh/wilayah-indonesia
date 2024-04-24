@@ -1,0 +1,50 @@
+[
+  {
+    "id": 210202,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210202,
+    "value": "Gading Sari",
+    "postal_code": "29662"
+  },
+  {
+    "id": 210202,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210202,
+    "value": "Lubuk",
+    "postal_code": "29662"
+  },
+  {
+    "id": 210202,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210202,
+    "value": "Sungai Sebesi",
+    "postal_code": "29662"
+  },
+  {
+    "id": 210202,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210202,
+    "value": "Sungai Ungar",
+    "postal_code": "29662"
+  },
+  {
+    "id": 210202,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210202,
+    "value": "Tanjung Batu Barat",
+    "postal_code": "29662"
+  },
+  {
+    "id": 210202,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210202,
+    "value": "Tanjung Batu Kota",
+    "postal_code": "29662"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Banjar Negara",
+    "postal_code": "31420"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Karang Anyar",
+    "postal_code": "31421"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Karang Baru",
+    "postal_code": "31422"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Kerung",
+    "postal_code": "31426"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Muara Cawang",
+    "postal_code": "31427"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Nantal",
+    "postal_code": "31423"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Talang Sawah",
+    "postal_code": "31428"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Talang Sejemput",
+    "postal_code": "31429"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Tanjung Payang",
+    "postal_code": "31424"
+  },
+  {
+    "id": 160431,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160431,
+    "value": "Tanjung Tebat",
+    "postal_code": "31425"
+  }
+]

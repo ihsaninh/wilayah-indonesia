@@ -1,0 +1,34 @@
+[
+  {
+    "id": 327604,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327604,
+    "value": "Grogol",
+    "postal_code": "16512"
+  },
+  {
+    "id": 327604,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327604,
+    "value": "Krukut",
+    "postal_code": "16512"
+  },
+  {
+    "id": 327604,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327604,
+    "value": "Limo",
+    "postal_code": "16515"
+  },
+  {
+    "id": 327604,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327604,
+    "value": "Maruyung (Meruyung)",
+    "postal_code": "16515"
+  }
+]

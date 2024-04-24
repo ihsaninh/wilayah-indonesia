@@ -1,0 +1,42 @@
+[
+  {
+    "id": 197102,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197102,
+    "value": "Batin Tikal",
+    "postal_code": "33121"
+  },
+  {
+    "id": 197102,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197102,
+    "value": "Gedung Nasional",
+    "postal_code": "33127"
+  },
+  {
+    "id": 197102,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197102,
+    "value": "Kejaksaan",
+    "postal_code": "33123"
+  },
+  {
+    "id": 197102,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197102,
+    "value": "Opas Indah",
+    "postal_code": "33121"
+  },
+  {
+    "id": 197102,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197102,
+    "value": "Rawa Bangun",
+    "postal_code": "33121"
+  }
+]

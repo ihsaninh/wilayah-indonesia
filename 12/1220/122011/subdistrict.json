@@ -1,0 +1,114 @@
+[
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Batang Pane I",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Batang Pane II",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Batang Pane III",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Bolatan",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Gunung Intan",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Gunung Manaon III",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Hutabaru Nangka",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Mompang I",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Pasir Bara",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Rondaman",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Siancimun",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Sihopuk Baru",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Sihopuk Lama",
+    "postal_code": "22752"
+  },
+  {
+    "id": 122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122011,
+    "value": "Situmbaga",
+    "postal_code": "22752"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 620205,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620205,
+    "value": "Baamang Barat",
+    "postal_code": "74312"
+  },
+  {
+    "id": 620205,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620205,
+    "value": "Baamang Hilir",
+    "postal_code": "74311"
+  },
+  {
+    "id": 620205,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620205,
+    "value": "Baamang Hulu",
+    "postal_code": "74313"
+  },
+  {
+    "id": 620205,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620205,
+    "value": "Baamang Tengah",
+    "postal_code": "74312"
+  },
+  {
+    "id": 620205,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620205,
+    "value": "Tanah Mas",
+    "postal_code": "74312"
+  },
+  {
+    "id": 620205,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620205,
+    "value": "Tinduk",
+    "postal_code": "74316"
+  }
+]

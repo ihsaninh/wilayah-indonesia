@@ -1,0 +1,114 @@
+[
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Aek Batu",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Aek Raso",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Asam Jawa",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Bangai",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Beringin Jaya",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Bukit Tujuh",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Bunut",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Pangarungan",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Pinang Damai (Pinang Dame)",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Rasau",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Sei Meranti (Sungai Meranti)",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Teluk Rampah",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Torgamba",
+    "postal_code": "21466"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122203,
+    "value": "Torganda",
+    "postal_code": "21466"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 940411,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940411,
+    "value": "Aiduna (Aindua)",
+    "postal_code": "99974"
+  },
+  {
+    "id": 940411,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940411,
+    "value": "Potowai Buru (Potowayburu / Potowaiburu)",
+    "postal_code": "99974"
+  },
+  {
+    "id": 940411,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940411,
+    "value": "Tapomai (Tapormai)",
+    "postal_code": "99974"
+  },
+  {
+    "id": 940411,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940411,
+    "value": "Umar",
+    "postal_code": "99974"
+  },
+  {
+    "id": 940411,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940411,
+    "value": "Yapkoka (Yapakopa)",
+    "postal_code": "99974"
+  }
+]

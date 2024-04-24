@@ -1,0 +1,34 @@
+[
+  {
+    "id": 530322,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530322,
+    "value": "Oekopa",
+    "postal_code": "85684"
+  },
+  {
+    "id": 530322,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530322,
+    "value": "Oerinbesi",
+    "postal_code": "85684"
+  },
+  {
+    "id": 530322,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530322,
+    "value": "T'Eba Timur (Teba Timur)",
+    "postal_code": "85684"
+  },
+  {
+    "id": 530322,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530322,
+    "value": "Teba",
+    "postal_code": "85684"
+  }
+]

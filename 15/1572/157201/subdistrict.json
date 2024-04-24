@@ -1,0 +1,42 @@
+[
+  {
+    "id": 157201,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157201,
+    "value": "Amar Sakti",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157201,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157201,
+    "value": "Gedang",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157201,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157201,
+    "value": "Pasar Baru",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157201,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157201,
+    "value": "Pasar Sungai Penuh",
+    "postal_code": "37113"
+  },
+  {
+    "id": 157201,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157201,
+    "value": "Sungai Penuh",
+    "postal_code": "37111"
+  }
+]

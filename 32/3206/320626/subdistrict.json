@@ -1,0 +1,50 @@
+[
+  {
+    "id": 320626,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320626,
+    "value": "Padasuka",
+    "postal_code": "46461"
+  },
+  {
+    "id": 320626,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320626,
+    "value": "Sukakarsa",
+    "postal_code": "46461"
+  },
+  {
+    "id": 320626,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320626,
+    "value": "Sukamenak (Suka Menak)",
+    "postal_code": "46461"
+  },
+  {
+    "id": 320626,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320626,
+    "value": "Sukarame",
+    "postal_code": "46461"
+  },
+  {
+    "id": 320626,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320626,
+    "value": "Sukarapih",
+    "postal_code": "46461"
+  },
+  {
+    "id": 320626,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320626,
+    "value": "Wargakerta",
+    "postal_code": "46461"
+  }
+]

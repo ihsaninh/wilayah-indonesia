@@ -1,0 +1,114 @@
+[
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Arjo Sari (Arjosari)",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Bakka-Bakka",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Banua Baru",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Bumiayu",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Bumimulyo (Bumi Mulyo)",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Campurjo",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Galeson (Geleso)",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Kebunsari",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Nepo",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Sidodadi",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Sidorejo",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Sugihwaras (Sugih Waras)",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Sumberejo (Sumberjo)",
+    "postal_code": "91342"
+  },
+  {
+    "id": 760403,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760403,
+    "value": "Tumpiling",
+    "postal_code": "91342"
+  }
+]

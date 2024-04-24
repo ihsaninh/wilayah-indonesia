@@ -1,0 +1,34 @@
+[
+  {
+    "id": 617104,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617104,
+    "value": "Batulayang (Batu Layang)",
+    "postal_code": "78244"
+  },
+  {
+    "id": 617104,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617104,
+    "value": "Siantan Hilir",
+    "postal_code": "78243"
+  },
+  {
+    "id": 617104,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617104,
+    "value": "Siantan Hulu",
+    "postal_code": "78241"
+  },
+  {
+    "id": 617104,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617104,
+    "value": "Siantan Tengah",
+    "postal_code": "78242"
+  }
+]

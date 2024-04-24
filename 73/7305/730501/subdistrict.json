@@ -1,0 +1,34 @@
+[
+  {
+    "id": 730501,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730501,
+    "value": "Pa'batangang",
+    "postal_code": "92232"
+  },
+  {
+    "id": 730501,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730501,
+    "value": "Patani",
+    "postal_code": "92232"
+  },
+  {
+    "id": 730501,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730501,
+    "value": "Soreang",
+    "postal_code": "92232"
+  },
+  {
+    "id": 730501,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730501,
+    "value": "Takalar (Takalar Kota)",
+    "postal_code": "92232"
+  }
+]

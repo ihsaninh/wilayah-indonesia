@@ -1,0 +1,42 @@
+[
+  {
+    "id": 820202,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820202,
+    "value": "Baka Jaya",
+    "postal_code": "97855"
+  },
+  {
+    "id": 820202,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820202,
+    "value": "Kipai",
+    "postal_code": "97855"
+  },
+  {
+    "id": 820202,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820202,
+    "value": "Wailegi",
+    "postal_code": "97855"
+  },
+  {
+    "id": 820202,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820202,
+    "value": "Yeisowo",
+    "postal_code": "97855"
+  },
+  {
+    "id": 820202,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820202,
+    "value": "Yondeliu",
+    "postal_code": "97855"
+  }
+]

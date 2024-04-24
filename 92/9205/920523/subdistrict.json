@@ -1,0 +1,34 @@
+[
+  {
+    "id": 920523,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920523,
+    "value": "Duber",
+    "postal_code": "98463"
+  },
+  {
+    "id": 920523,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920523,
+    "value": "Kapadiri",
+    "postal_code": "98463"
+  },
+  {
+    "id": 920523,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920523,
+    "value": "Rauki",
+    "postal_code": "98463"
+  },
+  {
+    "id": 920523,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920523,
+    "value": "Urai",
+    "postal_code": "98463"
+  }
+]

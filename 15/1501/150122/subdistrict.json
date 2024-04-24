@@ -1,0 +1,98 @@
+[
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Agung Koto Iman",
+    "postal_code": "37172"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Baru Semerah",
+    "postal_code": "37171"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Bunga Tanjung",
+    "postal_code": "37171"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Kayu Aro Ambai (Kayuaro Ambai)",
+    "postal_code": "37171"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Koto Iman",
+    "postal_code": "37172"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Koto Petai",
+    "postal_code": "37172"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Koto Salak",
+    "postal_code": "37172"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Koto Tuo Ujung Pasir",
+    "postal_code": "37172"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Pondok Beringin",
+    "postal_code": "37171"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Sebukar",
+    "postal_code": "37171"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Semerah",
+    "postal_code": "37171"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150122,
+    "value": "Ujung Pasir",
+    "postal_code": "37172"
+  }
+]

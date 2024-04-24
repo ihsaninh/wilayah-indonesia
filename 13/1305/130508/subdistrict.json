@@ -1,0 +1,34 @@
+[
+  {
+    "id": 130508,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130508,
+    "value": "Guguak Kuranji Hilir",
+    "postal_code": "25561"
+  },
+  {
+    "id": 130508,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130508,
+    "value": "Koto Tinggi Kuranji Hilir",
+    "postal_code": "25561"
+  },
+  {
+    "id": 130508,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130508,
+    "value": "Kuranji Hilir",
+    "postal_code": "25561"
+  },
+  {
+    "id": 130508,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130508,
+    "value": "Pilubang",
+    "postal_code": "25561"
+  }
+]

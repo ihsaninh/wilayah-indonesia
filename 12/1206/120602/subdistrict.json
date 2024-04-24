@@ -1,0 +1,82 @@
+[
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Daulu (Doulu)",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Gundaling I",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Gundaling II",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Gurusinga",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Lau Gumba",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Raya",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Rumah Brastagi/Berastagi",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Sempajaya",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Tambak Lau Mulgab I (Tambak Lau Mulgap I)",
+    "postal_code": "22152"
+  },
+  {
+    "id": 120602,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120602,
+    "value": "Tambak Lau Mulgab II (Tambak Lau Mulgap II)",
+    "postal_code": "22152"
+  }
+]

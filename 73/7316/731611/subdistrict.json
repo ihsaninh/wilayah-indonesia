@@ -1,0 +1,50 @@
+[
+  {
+    "id": 731611,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731611,
+    "value": "Batu Ke'de (Batu Kede)",
+    "postal_code": "91757"
+  },
+  {
+    "id": 731611,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731611,
+    "value": "Buntu Sarong",
+    "postal_code": "91757"
+  },
+  {
+    "id": 731611,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731611,
+    "value": "Masalle",
+    "postal_code": "91757"
+  },
+  {
+    "id": 731611,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731611,
+    "value": "Mundan",
+    "postal_code": "91757"
+  },
+  {
+    "id": 731611,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731611,
+    "value": "Rampunan",
+    "postal_code": "91757"
+  },
+  {
+    "id": 731611,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731611,
+    "value": "Tongkonan Basse",
+    "postal_code": "91757"
+  }
+]

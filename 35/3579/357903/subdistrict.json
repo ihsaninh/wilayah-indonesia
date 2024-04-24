@@ -1,0 +1,58 @@
+[
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Beji",
+    "postal_code": "65326"
+  },
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Dadaprejo",
+    "postal_code": "65323"
+  },
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Junrejo",
+    "postal_code": "65321"
+  },
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Mojorejo",
+    "postal_code": "65322"
+  },
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Pendem",
+    "postal_code": "65324"
+  },
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Tlekung",
+    "postal_code": "65327"
+  },
+  {
+    "id": 357903,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357903,
+    "value": "Torongrejo",
+    "postal_code": "65325"
+  }
+]

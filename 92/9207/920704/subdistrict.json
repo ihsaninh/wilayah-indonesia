@@ -1,0 +1,34 @@
+[
+  {
+    "id": 920704,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920704,
+    "value": "Issui",
+    "postal_code": "98347"
+  },
+  {
+    "id": 920704,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920704,
+    "value": "Kabouw",
+    "postal_code": "98347"
+  },
+  {
+    "id": 920704,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920704,
+    "value": "Kaibi",
+    "postal_code": "98347"
+  },
+  {
+    "id": 920704,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920704,
+    "value": "Wondiboy",
+    "postal_code": "98347"
+  }
+]

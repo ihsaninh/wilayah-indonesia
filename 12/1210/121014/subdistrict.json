@@ -1,0 +1,58 @@
+[
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Kampung Padang",
+    "postal_code": "21462"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Pangkatan (Kampung Pangkatan)",
+    "postal_code": "21462"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Perkebunan Pangkatan",
+    "postal_code": "21462"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Sennah (Kampung Sennah)",
+    "postal_code": "21462"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Sidorukun",
+    "postal_code": "21462"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Tanjung Harapan",
+    "postal_code": "21462"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121014,
+    "value": "Tebing Tinggi Pangkatan",
+    "postal_code": "21462"
+  }
+]

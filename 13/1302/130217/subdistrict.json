@@ -1,0 +1,26 @@
+[
+  {
+    "id": 130217,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130217,
+    "value": "Sariak Alahan Tigo (Sarik Alahan Tigo)",
+    "postal_code": "27372"
+  },
+  {
+    "id": 130217,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130217,
+    "value": "Sungai Abu",
+    "postal_code": "27372"
+  },
+  {
+    "id": 130217,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130217,
+    "value": "Talang Babungo",
+    "postal_code": "27372"
+  }
+]

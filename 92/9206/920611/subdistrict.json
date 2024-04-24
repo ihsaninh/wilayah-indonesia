@@ -1,0 +1,50 @@
+[
+  {
+    "id": 920611,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920611,
+    "value": "Atibo Manimeri",
+    "postal_code": "98143"
+  },
+  {
+    "id": 920611,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920611,
+    "value": "Banjar Ausoy",
+    "postal_code": "98143"
+  },
+  {
+    "id": 920611,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920611,
+    "value": "Bumi Saniari",
+    "postal_code": "98143"
+  },
+  {
+    "id": 920611,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920611,
+    "value": "Korano Jaya",
+    "postal_code": "98143"
+  },
+  {
+    "id": 920611,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920611,
+    "value": "Pasamai",
+    "postal_code": "98143"
+  },
+  {
+    "id": 920611,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920611,
+    "value": "Waraitama",
+    "postal_code": "98143"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150708,
+    "value": "Kampung Laut",
+    "postal_code": "36760"
+  },
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150708,
+    "value": "Kuala Lagan",
+    "postal_code": "36760"
+  },
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150708,
+    "value": "Majelis Hidayah",
+    "postal_code": "36760"
+  },
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150708,
+    "value": "Manunggal Makmur",
+    "postal_code": "36760"
+  },
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150708,
+    "value": "Tanjungsolok (Tanjung Solok)",
+    "postal_code": "36760"
+  },
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150708,
+    "value": "Teluk Majelis",
+    "postal_code": "36760"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 210115,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210115,
+    "value": "Busung",
+    "postal_code": "29153"
+  },
+  {
+    "id": 210115,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210115,
+    "value": "Kuala Sempang",
+    "postal_code": "29153"
+  },
+  {
+    "id": 210115,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210115,
+    "value": "Tanjung Permai",
+    "postal_code": "29153"
+  },
+  {
+    "id": 210115,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210115,
+    "value": "Teluk Lobam",
+    "postal_code": "29153"
+  },
+  {
+    "id": 210115,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210115,
+    "value": "Teluk Sasah",
+    "postal_code": "29153"
+  }
+]

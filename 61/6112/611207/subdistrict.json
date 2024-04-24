@@ -1,0 +1,50 @@
+[
+  {
+    "id": 611207,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611207,
+    "value": "Bintang Mas",
+    "postal_code": "78382"
+  },
+  {
+    "id": 611207,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611207,
+    "value": "Pematang Tujuh",
+    "postal_code": "78382"
+  },
+  {
+    "id": 611207,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611207,
+    "value": "Rasau Jaya I (Satu)",
+    "postal_code": "78381"
+  },
+  {
+    "id": 611207,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611207,
+    "value": "Rasau Jaya II (Dua)",
+    "postal_code": "78382"
+  },
+  {
+    "id": 611207,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611207,
+    "value": "Rasau Jaya III (Tiga)",
+    "postal_code": "78382"
+  },
+  {
+    "id": 611207,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611207,
+    "value": "Rasau Jaya Umum",
+    "postal_code": "78382"
+  }
+]

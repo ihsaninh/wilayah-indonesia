@@ -1,0 +1,82 @@
+[
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Kema I (Kema Satu)",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Kema II (Kema Dua)",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Kema III (Kema Tiga)",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Lansot",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Lilang",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Makalisung",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Tontaalete Rok-rok",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Tontalete",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Waleo",
+    "postal_code": "95379"
+  },
+  {
+    "id": 710601,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710601,
+    "value": "Waleo Dua",
+    "postal_code": "95379"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Bungo Antoi (Bunga Antoi)",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Bungo Tanjung (Bunga Tanjung)",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Gading Jaya",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Mekar Jaya",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Muara Delang",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Rawa Jaya",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Sinar Gading",
+    "postal_code": "37354"
+  },
+  {
+    "id": 150208,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150208,
+    "value": "Sungai Sahut",
+    "postal_code": "37354"
+  }
+]

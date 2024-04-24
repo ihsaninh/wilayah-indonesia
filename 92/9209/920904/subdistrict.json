@@ -1,0 +1,42 @@
+[
+  {
+    "id": 920904,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920904,
+    "value": "Barar",
+    "postal_code": "98369"
+  },
+  {
+    "id": 920904,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920904,
+    "value": "Esmambo",
+    "postal_code": "98369"
+  },
+  {
+    "id": 920904,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920904,
+    "value": "Hopmare",
+    "postal_code": "98369"
+  },
+  {
+    "id": 920904,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920904,
+    "value": "Kwoor",
+    "postal_code": "98369"
+  },
+  {
+    "id": 920904,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920904,
+    "value": "Orwen",
+    "postal_code": "98369"
+  }
+]

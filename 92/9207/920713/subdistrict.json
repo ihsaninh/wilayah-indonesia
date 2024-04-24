@@ -1,0 +1,42 @@
+[
+  {
+    "id": 920713,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920713,
+    "value": "Kaprus",
+    "postal_code": "98334"
+  },
+  {
+    "id": 920713,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920713,
+    "value": "Nuspairo",
+    "postal_code": "98334"
+  },
+  {
+    "id": 920713,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920713,
+    "value": "Reyob (Rayob)",
+    "postal_code": "98334"
+  },
+  {
+    "id": 920713,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920713,
+    "value": "Siresi",
+    "postal_code": "98334"
+  },
+  {
+    "id": 920713,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920713,
+    "value": "Yarmatum (Yermatum)",
+    "postal_code": "98334"
+  }
+]

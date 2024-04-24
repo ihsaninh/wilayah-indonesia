@@ -1,0 +1,42 @@
+[
+  {
+    "id": 187201,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187201,
+    "value": "Hadimulyo Barat",
+    "postal_code": "34113"
+  },
+  {
+    "id": 187201,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187201,
+    "value": "Hadimulyo Timur",
+    "postal_code": "34113"
+  },
+  {
+    "id": 187201,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187201,
+    "value": "Imopuro",
+    "postal_code": "34111"
+  },
+  {
+    "id": 187201,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187201,
+    "value": "Metro",
+    "postal_code": "34111"
+  },
+  {
+    "id": 187201,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187201,
+    "value": "Yosomulyo",
+    "postal_code": "34111"
+  }
+]

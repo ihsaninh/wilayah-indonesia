@@ -1,0 +1,202 @@
+[
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Anyar",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Arisan Buntal",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Banding Anyar",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Buluh Cawang",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Celikah",
+    "postal_code": "30611"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Cintaraja (Cinta Raja / Raya)",
+    "postal_code": "30614"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Jua Jua",
+    "postal_code": "30616"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Kayuagung (Kayu Agung)",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Kedaton",
+    "postal_code": "30617"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Kijang Ulu",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Kutaraja (Kota Raya)",
+    "postal_code": "30617"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Lubuk Dalam",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Mangun Jaya",
+    "postal_code": "30613"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Muarabaru (Muara Baru)",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Paku",
+    "postal_code": "30612"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Perigi",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Serigeni (Serigeni Lama)",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Serigeni Baru",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Sidakersa (Sidareksa)",
+    "postal_code": "30615"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Sukadana",
+    "postal_code": "30611"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Tanjung Lubuk",
+    "postal_code": "30617"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Tanjung Menang",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Tanjung Rancing",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Tanjung Serang",
+    "postal_code": "30618"
+  },
+  {
+    "id": 160205,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160205,
+    "value": "Teloko",
+    "postal_code": "30618"
+  }
+]

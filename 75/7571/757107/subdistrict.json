@@ -1,0 +1,42 @@
+[
+  {
+    "id": 757107,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757107,
+    "value": "Bulotadaa Barat",
+    "postal_code": "96124"
+  },
+  {
+    "id": 757107,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757107,
+    "value": "Bulotadaa Timur",
+    "postal_code": "96121"
+  },
+  {
+    "id": 757107,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757107,
+    "value": "Molosifat U (Molosipat U)",
+    "postal_code": "96126"
+  },
+  {
+    "id": 757107,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757107,
+    "value": "Tanggikiki",
+    "postal_code": "96126"
+  },
+  {
+    "id": 757107,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757107,
+    "value": "Tapa",
+    "postal_code": "96125"
+  }
+]

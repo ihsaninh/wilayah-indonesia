@@ -1,0 +1,58 @@
+[
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Air Hitam",
+    "postal_code": "21475"
+  },
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Kelapa Sebatang",
+    "postal_code": "21475"
+  },
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Pangkalan Lunang",
+    "postal_code": "21475"
+  },
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Simandulang",
+    "postal_code": "21475"
+  },
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Tanjung Leidong",
+    "postal_code": "21475"
+  },
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Teluk Pulai Dalam",
+    "postal_code": "21475"
+  },
+  {
+    "id": 122302,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122302,
+    "value": "Teluk Pulai Luar",
+    "postal_code": "21475"
+  }
+]

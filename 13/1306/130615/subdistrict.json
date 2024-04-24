@@ -1,0 +1,42 @@
+[
+  {
+    "id": 130615,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130615,
+    "value": "Kamang Hilia",
+    "postal_code": "26152"
+  },
+  {
+    "id": 130615,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130615,
+    "value": "Kamang Mudiak",
+    "postal_code": "26152"
+  },
+  {
+    "id": 130615,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130615,
+    "value": "Kamang Tangah Anam Suku",
+    "postal_code": "26152"
+  },
+  {
+    "id": 130615,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130615,
+    "value": "Magek",
+    "postal_code": "26152"
+  },
+  {
+    "id": 130615,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130615,
+    "value": "Pauh Kamang Mudiak",
+    "postal_code": "26152"
+  }
+]

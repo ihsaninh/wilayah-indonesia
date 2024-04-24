@@ -1,0 +1,42 @@
+[
+  {
+    "id": 940306,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940306,
+    "value": "Bomosiga",
+    "postal_code": "98743"
+  },
+  {
+    "id": 940306,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940306,
+    "value": "Duma",
+    "postal_code": "98743"
+  },
+  {
+    "id": 940306,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940306,
+    "value": "Duma II",
+    "postal_code": "98743"
+  },
+  {
+    "id": 940306,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940306,
+    "value": "Japesigaiwaka",
+    "postal_code": "98743"
+  },
+  {
+    "id": 940306,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940306,
+    "value": "Waitapa",
+    "postal_code": "98743"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 317206,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317206,
+    "value": "Kelapa Gading Barat",
+    "postal_code": "14240"
+  },
+  {
+    "id": 317206,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317206,
+    "value": "Kelapa Gading Timur",
+    "postal_code": "14240"
+  },
+  {
+    "id": 317206,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317206,
+    "value": "Pegangsaan Dua",
+    "postal_code": "14250"
+  }
+]

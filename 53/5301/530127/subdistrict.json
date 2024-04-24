@@ -1,0 +1,42 @@
+[
+  {
+    "id": 530127,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530127,
+    "value": "Kalali",
+    "postal_code": "85223"
+  },
+  {
+    "id": 530127,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530127,
+    "value": "Naitae",
+    "postal_code": "85223"
+  },
+  {
+    "id": 530127,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530127,
+    "value": "Nuataus",
+    "postal_code": "85223"
+  },
+  {
+    "id": 530127,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530127,
+    "value": "Poto",
+    "postal_code": "85223"
+  },
+  {
+    "id": 530127,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530127,
+    "value": "Tuakau",
+    "postal_code": "85223"
+  }
+]

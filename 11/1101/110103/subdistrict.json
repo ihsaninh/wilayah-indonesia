@@ -1,0 +1,138 @@
+[
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Barat Daya",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Geulumbuk (Gelumbuk)",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Indra Damai",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Jua",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Kapeh",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Kedai Kandang",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Kedai Runding",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Luar (Gampong Luar)",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Pasi Meurapat (Pasi Merapat)",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Pasie Lembang (Pasi Lembang)",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Pulo Ie",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Rantau Binuang",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Sialang",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Suaq Bakung (Suaq Bakong)",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Ujung",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Ujung Padang",
+    "postal_code": "23772"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110103,
+    "value": "Ujung Pasir",
+    "postal_code": "23772"
+  }
+]

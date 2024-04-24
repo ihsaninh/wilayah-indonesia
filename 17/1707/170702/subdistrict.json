@@ -1,0 +1,50 @@
+[
+  {
+    "id": 170702,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170702,
+    "value": "Blau",
+    "postal_code": "39265"
+  },
+  {
+    "id": 170702,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170702,
+    "value": "Daneo / Daneu / Danau",
+    "postal_code": "39265"
+  },
+  {
+    "id": 170702,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170702,
+    "value": "Sukau Kayo (Suka Kayo)",
+    "postal_code": "39265"
+  },
+  {
+    "id": 170702,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170702,
+    "value": "Tabeak Blau",
+    "postal_code": "39265"
+  },
+  {
+    "id": 170702,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170702,
+    "value": "Tabeak Blau I",
+    "postal_code": "39265"
+  },
+  {
+    "id": 170702,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170702,
+    "value": "Tik Tebing (Atas Tebing)",
+    "postal_code": "39265"
+  }
+]

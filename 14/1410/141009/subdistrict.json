@@ -1,0 +1,90 @@
+[
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Beting",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Bungur",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Kayu Ara",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Kedabu Rapat",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Sendaur",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Sokop",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Sonde",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Tanah Merah",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Tanjung Kedabu",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Telesung",
+    "postal_code": "28757"
+  },
+  {
+    "id": 141009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141009,
+    "value": "Tenggayun Raya",
+    "postal_code": "28757"
+  }
+]

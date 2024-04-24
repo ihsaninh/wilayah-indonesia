@@ -1,0 +1,58 @@
+[
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Baringin Pancur Nauli (Bp Nauli)",
+    "postal_code": "21129"
+  },
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Mekar Nauli",
+    "postal_code": "21129"
+  },
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Pardamean",
+    "postal_code": "21128"
+  },
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Parhorasan Nauli",
+    "postal_code": "21129"
+  },
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Sukamaju",
+    "postal_code": "21127"
+  },
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Sukamakmur",
+    "postal_code": "21128"
+  },
+  {
+    "id": 127205,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127205,
+    "value": "Sukaraja",
+    "postal_code": "21128"
+  }
+]

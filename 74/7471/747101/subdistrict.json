@@ -1,0 +1,50 @@
+[
+  {
+    "id": 747101,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747101,
+    "value": "Alolama",
+    "postal_code": "93112"
+  },
+  {
+    "id": 747101,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747101,
+    "value": "Anggilowu",
+    "postal_code": "93111"
+  },
+  {
+    "id": 747101,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747101,
+    "value": "Korumba",
+    "postal_code": "93111"
+  },
+  {
+    "id": 747101,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747101,
+    "value": "Labibia",
+    "postal_code": "93113"
+  },
+  {
+    "id": 747101,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747101,
+    "value": "Mandonga",
+    "postal_code": "93111"
+  },
+  {
+    "id": 747101,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747101,
+    "value": "Wawombalata",
+    "postal_code": "93113"
+  }
+]

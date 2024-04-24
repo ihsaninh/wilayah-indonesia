@@ -1,0 +1,90 @@
+[
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Beringin Baru",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Gerantung",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Goa Boma",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Jahandung",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Mekar Baru",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Monterado",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Nek Ginap",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Rantau",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Sendoreng",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Serindu",
+    "postal_code": "79181"
+  },
+  {
+    "id": 610708,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610708,
+    "value": "Siaga (Nyempen)",
+    "postal_code": "79181"
+  }
+]

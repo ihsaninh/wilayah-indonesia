@@ -1,0 +1,58 @@
+[
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Pamatang Limau (Pematang Limau)",
+    "postal_code": "74570"
+  },
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Rabauh",
+    "postal_code": "74570"
+  },
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Sepang Kota",
+    "postal_code": "74570"
+  },
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Sepang Simin",
+    "postal_code": "74570"
+  },
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Tampelas",
+    "postal_code": "74570"
+  },
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Tanjung Karitak",
+    "postal_code": "74570"
+  },
+  {
+    "id": 621001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621001,
+    "value": "Tewai Baru",
+    "postal_code": "74570"
+  }
+]

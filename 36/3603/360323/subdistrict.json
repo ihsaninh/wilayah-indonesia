@@ -1,0 +1,50 @@
+[
+  {
+    "id": 360323,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360323,
+    "value": "Cibogo",
+    "postal_code": "15344"
+  },
+  {
+    "id": 360323,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360323,
+    "value": "Cisauk",
+    "postal_code": "15341"
+  },
+  {
+    "id": 360323,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360323,
+    "value": "Dangdang",
+    "postal_code": "15342"
+  },
+  {
+    "id": 360323,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360323,
+    "value": "Mekar Wangi (Mekarwangi)",
+    "postal_code": "15340"
+  },
+  {
+    "id": 360323,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360323,
+    "value": "Sampora",
+    "postal_code": "15345"
+  },
+  {
+    "id": 360323,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360323,
+    "value": "Suradita",
+    "postal_code": "15343"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Girirejo",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Imogiri",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Karangtalun",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Karangtengah (Karang Tengah)",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Kebonagung (Kebon Agung)",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Selopamioro",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Sriharjo",
+    "postal_code": "55782"
+  },
+  {
+    "id": 340210,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340210,
+    "value": "Wukirsari",
+    "postal_code": "55782"
+  }
+]

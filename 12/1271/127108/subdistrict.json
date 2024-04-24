@@ -1,0 +1,50 @@
+[
+  {
+    "id": 127108,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127108,
+    "value": "Bagan Deli",
+    "postal_code": "20414"
+  },
+  {
+    "id": 127108,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127108,
+    "value": "Belawan Bahagia",
+    "postal_code": "20415"
+  },
+  {
+    "id": 127108,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127108,
+    "value": "Belawan Bahari",
+    "postal_code": "20414"
+  },
+  {
+    "id": 127108,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127108,
+    "value": "Belawan I",
+    "postal_code": "20411"
+  },
+  {
+    "id": 127108,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127108,
+    "value": "Belawan II",
+    "postal_code": "20412"
+  },
+  {
+    "id": 127108,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127108,
+    "value": "Belawan Sicanang",
+    "postal_code": "20412"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Batu Lepuk",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Kampung Hilir",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Kampung Melayu",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Kukup",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Pengikik",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Pulau Mentebung",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Pulau Pinang",
+    "postal_code": "29193"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210109,
+    "value": "Teluk Sekuni",
+    "postal_code": "29193"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 187115,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187115,
+    "value": "Gunungsulah (Gunung Sulah)",
+    "postal_code": "35136"
+  },
+  {
+    "id": 187115,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187115,
+    "value": "Jagabaya I (Jaga Baya I)",
+    "postal_code": "35123"
+  },
+  {
+    "id": 187115,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187115,
+    "value": "Jagabaya II",
+    "postal_code": "35132"
+  },
+  {
+    "id": 187115,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187115,
+    "value": "Jagabaya III",
+    "postal_code": "35132"
+  },
+  {
+    "id": 187115,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187115,
+    "value": "Perumnas Way Halim",
+    "postal_code": "35141"
+  },
+  {
+    "id": 187115,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187115,
+    "value": "Way Halim Permai",
+    "postal_code": "35135"
+  }
+]

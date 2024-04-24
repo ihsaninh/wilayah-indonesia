@@ -1,0 +1,42 @@
+[
+  {
+    "id": 367202,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367202,
+    "value": "Bagendung",
+    "postal_code": "42419"
+  },
+  {
+    "id": 367202,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367202,
+    "value": "Bendungan",
+    "postal_code": "42417"
+  },
+  {
+    "id": 367202,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367202,
+    "value": "Ciwaduk",
+    "postal_code": "42415"
+  },
+  {
+    "id": 367202,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367202,
+    "value": "Ciwedus",
+    "postal_code": "42418"
+  },
+  {
+    "id": 367202,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367202,
+    "value": "Ketileng",
+    "postal_code": "42416"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 351207,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351207,
+    "value": "Dawuhan",
+    "postal_code": "68311"
+  },
+  {
+    "id": 351207,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351207,
+    "value": "Kalibagor",
+    "postal_code": "68314"
+  },
+  {
+    "id": 351207,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351207,
+    "value": "Kotakan",
+    "postal_code": "68313"
+  },
+  {
+    "id": 351207,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351207,
+    "value": "Olean",
+    "postal_code": "68316"
+  },
+  {
+    "id": 351207,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351207,
+    "value": "Patokan",
+    "postal_code": "68312"
+  },
+  {
+    "id": 351207,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351207,
+    "value": "Talkandang",
+    "postal_code": "68315"
+  }
+]

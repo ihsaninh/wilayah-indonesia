@@ -1,0 +1,42 @@
+[
+  {
+    "id": 120928,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120928,
+    "value": "Bangun Sari",
+    "postal_code": "21267"
+  },
+  {
+    "id": 120928,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120928,
+    "value": "Lubuk Palas",
+    "postal_code": "21267"
+  },
+  {
+    "id": 120928,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120928,
+    "value": "Silo Baru",
+    "postal_code": "21267"
+  },
+  {
+    "id": 120928,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120928,
+    "value": "Silo Bonto",
+    "postal_code": "21267"
+  },
+  {
+    "id": 120928,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120928,
+    "value": "Silo Lama",
+    "postal_code": "21267"
+  }
+]

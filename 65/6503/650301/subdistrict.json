@@ -1,0 +1,34 @@
+[
+  {
+    "id": 650301,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650301,
+    "value": "Balansiku",
+    "postal_code": "77483"
+  },
+  {
+    "id": 650301,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650301,
+    "value": "Padaidi",
+    "postal_code": "77483"
+  },
+  {
+    "id": 650301,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650301,
+    "value": "Sungai Manurung",
+    "postal_code": "77483"
+  },
+  {
+    "id": 650301,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650301,
+    "value": "Tanjungkarang (Tanjung Karang)",
+    "postal_code": "77483"
+  }
+]

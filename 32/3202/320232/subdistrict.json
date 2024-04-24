@@ -1,0 +1,50 @@
+[
+  {
+    "id": 320232,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320232,
+    "value": "Karawang",
+    "postal_code": "43151"
+  },
+  {
+    "id": 320232,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320232,
+    "value": "Parungseah",
+    "postal_code": "43151"
+  },
+  {
+    "id": 320232,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320232,
+    "value": "Perbawati",
+    "postal_code": "43151"
+  },
+  {
+    "id": 320232,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320232,
+    "value": "Sukajaya",
+    "postal_code": "43151"
+  },
+  {
+    "id": 320232,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320232,
+    "value": "Sundajayagirang (Sundajaya Girang)",
+    "postal_code": "43151"
+  },
+  {
+    "id": 320232,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320232,
+    "value": "Warnasari",
+    "postal_code": "43151"
+  }
+]

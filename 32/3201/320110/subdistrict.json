@@ -1,0 +1,74 @@
+[
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Bojongindah (Bojong Indah)",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Bojongsempu (Bojong Sempu)",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Cogreg",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Iwul",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Jabonmekar (Jabon Mekar)",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Pamegarsari (Pamagersari)",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Parung",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Waru",
+    "postal_code": "16330"
+  },
+  {
+    "id": 320110,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320110,
+    "value": "Warujaya",
+    "postal_code": "16330"
+  }
+]

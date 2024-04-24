@@ -1,0 +1,50 @@
+[
+  {
+    "id": 647401,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647401,
+    "value": "Api-Api",
+    "postal_code": "75311"
+  },
+  {
+    "id": 647401,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647401,
+    "value": "Bontang Baru",
+    "postal_code": "75311"
+  },
+  {
+    "id": 647401,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647401,
+    "value": "Bontang Kuala",
+    "postal_code": "75312"
+  },
+  {
+    "id": 647401,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647401,
+    "value": "Guntung",
+    "postal_code": "75314"
+  },
+  {
+    "id": 647401,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647401,
+    "value": "Gunung Elai",
+    "postal_code": "75311"
+  },
+  {
+    "id": 647401,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647401,
+    "value": "Loktuan (Lok Tuan)",
+    "postal_code": "75314"
+  }
+]

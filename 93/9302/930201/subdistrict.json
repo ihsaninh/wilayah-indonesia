@@ -1,0 +1,42 @@
+[
+  {
+    "id": 930201,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930201,
+    "value": "Ampera",
+    "postal_code": "99674"
+  },
+  {
+    "id": 930201,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930201,
+    "value": "Mariam",
+    "postal_code": "99674"
+  },
+  {
+    "id": 930201,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930201,
+    "value": "Mawan",
+    "postal_code": "99674"
+  },
+  {
+    "id": 930201,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930201,
+    "value": "Persatuan",
+    "postal_code": "99674"
+  },
+  {
+    "id": 930201,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930201,
+    "value": "Sohokanggo (Sokanggo)",
+    "postal_code": "99674"
+  }
+]

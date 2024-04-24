@@ -1,0 +1,50 @@
+[
+  {
+    "id": 317405,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317405,
+    "value": "Cipulir",
+    "postal_code": "12230"
+  },
+  {
+    "id": 317405,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317405,
+    "value": "Grogol Selatan",
+    "postal_code": "12220"
+  },
+  {
+    "id": 317405,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317405,
+    "value": "Grogol Utara",
+    "postal_code": "12210"
+  },
+  {
+    "id": 317405,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317405,
+    "value": "Kebayoran Lama Selatan",
+    "postal_code": "12240"
+  },
+  {
+    "id": 317405,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317405,
+    "value": "Kebayoran Lama Utara",
+    "postal_code": "12240"
+  },
+  {
+    "id": 317405,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317405,
+    "value": "Pondok Pinang",
+    "postal_code": "12310"
+  }
+]

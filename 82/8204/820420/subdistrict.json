@@ -1,0 +1,50 @@
+[
+  {
+    "id": 820420,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820420,
+    "value": "Akedabo",
+    "postal_code": "97791"
+  },
+  {
+    "id": 820420,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820420,
+    "value": "Bobo",
+    "postal_code": "97792"
+  },
+  {
+    "id": 820420,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820420,
+    "value": "Indong",
+    "postal_code": "97791"
+  },
+  {
+    "id": 820420,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820420,
+    "value": "Leleongusu (Loleongusu)",
+    "postal_code": "97791"
+  },
+  {
+    "id": 820420,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820420,
+    "value": "Pelita (Pelita Jaya)",
+    "postal_code": "97791"
+  },
+  {
+    "id": 820420,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820420,
+    "value": "Waya",
+    "postal_code": "97791"
+  }
+]

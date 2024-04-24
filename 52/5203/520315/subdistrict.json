@@ -1,0 +1,50 @@
+[
+  {
+    "id": 520315,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520315,
+    "value": "Bilok Petung",
+    "postal_code": "83657"
+  },
+  {
+    "id": 520315,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520315,
+    "value": "Sajang",
+    "postal_code": "83657"
+  },
+  {
+    "id": 520315,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520315,
+    "value": "Sembalun",
+    "postal_code": "83657"
+  },
+  {
+    "id": 520315,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520315,
+    "value": "Sembalun Bumbung",
+    "postal_code": "83657"
+  },
+  {
+    "id": 520315,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520315,
+    "value": "Sembalun Lawang",
+    "postal_code": "83657"
+  },
+  {
+    "id": 520315,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520315,
+    "value": "Sembalun Timba Gading",
+    "postal_code": "83657"
+  }
+]

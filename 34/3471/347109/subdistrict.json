@@ -1,0 +1,26 @@
+[
+  {
+    "id": 347109,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347109,
+    "value": "Kadipaten",
+    "postal_code": "55132"
+  },
+  {
+    "id": 347109,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347109,
+    "value": "Panembahan",
+    "postal_code": "55131"
+  },
+  {
+    "id": 347109,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347109,
+    "value": "Patehan",
+    "postal_code": "55133"
+  }
+]

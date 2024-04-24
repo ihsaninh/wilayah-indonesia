@@ -1,0 +1,50 @@
+[
+  {
+    "id": 150210,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150210,
+    "value": "Bedeng Rejo",
+    "postal_code": "37315"
+  },
+  {
+    "id": 150210,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150210,
+    "value": "Biuku Tanjung",
+    "postal_code": "37315"
+  },
+  {
+    "id": 150210,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150210,
+    "value": "Bukit Beringin",
+    "postal_code": "37315"
+  },
+  {
+    "id": 150210,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150210,
+    "value": "Pulau Rengas",
+    "postal_code": "37315"
+  },
+  {
+    "id": 150210,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150210,
+    "value": "Pulau Rengas Ulu",
+    "postal_code": "37315"
+  },
+  {
+    "id": 150210,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150210,
+    "value": "Sungai Putih",
+    "postal_code": "37315"
+  }
+]

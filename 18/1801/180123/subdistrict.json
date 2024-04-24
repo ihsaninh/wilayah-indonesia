@@ -1,0 +1,66 @@
+[
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Banjarsari",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Karang Pucung",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Mekar Sari (Mekarsari)",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Pamulihan (Pemulihan)",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Purwodadi",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Sukamaju",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Sumber Agung (Sumberagung)",
+    "postal_code": "35456"
+  },
+  {
+    "id": 180123,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180123,
+    "value": "Talang Way Sulan",
+    "postal_code": "35456"
+  }
+]

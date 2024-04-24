@@ -1,0 +1,90 @@
+[
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Batang Beruh",
+    "postal_code": "22212"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Belang Malum",
+    "postal_code": "22215"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Bintang",
+    "postal_code": "22219"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Bintang Hulu",
+    "postal_code": "22217"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Bintang Mersada",
+    "postal_code": "22210"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Huta Rakyat (Huta Rakjat)",
+    "postal_code": "22211"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Kalang",
+    "postal_code": "22213"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Kalang Simbara",
+    "postal_code": "22218"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Kuta Gambir",
+    "postal_code": "22214"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Sidiangkat",
+    "postal_code": "22216"
+  },
+  {
+    "id": 121101,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121101,
+    "value": "Sidikalang (Sidikalang Kota)",
+    "postal_code": "22211"
+  }
+]

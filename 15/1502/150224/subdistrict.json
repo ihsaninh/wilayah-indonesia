@@ -1,0 +1,50 @@
+[
+  {
+    "id": 150224,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150224,
+    "value": "Baru Bukit Punjung",
+    "postal_code": "37371"
+  },
+  {
+    "id": 150224,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150224,
+    "value": "Baru Sungai Sakai",
+    "postal_code": "37371"
+  },
+  {
+    "id": 150224,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150224,
+    "value": "Beringin Sanggul",
+    "postal_code": "37371"
+  },
+  {
+    "id": 150224,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150224,
+    "value": "Rantau Limau Kapas",
+    "postal_code": "37353"
+  },
+  {
+    "id": 150224,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150224,
+    "value": "Sekancing (Sei Kancing)",
+    "postal_code": "37371"
+  },
+  {
+    "id": 150224,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150224,
+    "value": "Sekancing Ilir",
+    "postal_code": "37371"
+  }
+]

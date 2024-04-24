@@ -1,0 +1,50 @@
+[
+  {
+    "id": 177105,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177105,
+    "value": "Kandang",
+    "postal_code": "38216"
+  },
+  {
+    "id": 177105,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177105,
+    "value": "Kandang Mas",
+    "postal_code": "38215"
+  },
+  {
+    "id": 177105,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177105,
+    "value": "Muara Dua",
+    "postal_code": "38215"
+  },
+  {
+    "id": 177105,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177105,
+    "value": "Padang Serai",
+    "postal_code": "38215"
+  },
+  {
+    "id": 177105,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177105,
+    "value": "Sumber Jaya",
+    "postal_code": "38215"
+  },
+  {
+    "id": 177105,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177105,
+    "value": "Teluk Sepang",
+    "postal_code": "38215"
+  }
+]

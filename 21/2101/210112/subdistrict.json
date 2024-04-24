@@ -1,0 +1,34 @@
+[
+  {
+    "id": 210112,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210112,
+    "value": "Toapaya",
+    "postal_code": "29157"
+  },
+  {
+    "id": 210112,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210112,
+    "value": "Toapaya Asri",
+    "postal_code": "29157"
+  },
+  {
+    "id": 210112,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210112,
+    "value": "Toapaya Selatan",
+    "postal_code": "29157"
+  },
+  {
+    "id": 210112,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210112,
+    "value": "Toapaya Utara",
+    "postal_code": "29157"
+  }
+]

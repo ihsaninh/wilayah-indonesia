@@ -1,0 +1,50 @@
+[
+  {
+    "id": 170705,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170705,
+    "value": "Bajok",
+    "postal_code": "39261"
+  },
+  {
+    "id": 170705,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170705,
+    "value": "Bioa Sengok",
+    "postal_code": "39261"
+  },
+  {
+    "id": 170705,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170705,
+    "value": "Rimbo Pengadang",
+    "postal_code": "39261"
+  },
+  {
+    "id": 170705,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170705,
+    "value": "Talang Ratau",
+    "postal_code": "39261"
+  },
+  {
+    "id": 170705,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170705,
+    "value": "Teluk Dien",
+    "postal_code": "39261"
+  },
+  {
+    "id": 170705,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170705,
+    "value": "Tik Kuto",
+    "postal_code": "39261"
+  }
+]

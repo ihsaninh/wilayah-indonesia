@@ -1,0 +1,50 @@
+[
+  {
+    "id": 640305,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640305,
+    "value": "Bugis",
+    "postal_code": "77312"
+  },
+  {
+    "id": 640305,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640305,
+    "value": "Gayam",
+    "postal_code": "77315"
+  },
+  {
+    "id": 640305,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640305,
+    "value": "Gunung Panjang",
+    "postal_code": "77311"
+  },
+  {
+    "id": 640305,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640305,
+    "value": "Karang Ambun",
+    "postal_code": "77315"
+  },
+  {
+    "id": 640305,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640305,
+    "value": "Sei/Sungai Bedungun",
+    "postal_code": "77315"
+  },
+  {
+    "id": 640305,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640305,
+    "value": "Tanjung Redeb",
+    "postal_code": "77315"
+  }
+]

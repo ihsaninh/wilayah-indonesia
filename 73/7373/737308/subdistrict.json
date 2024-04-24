@@ -1,0 +1,34 @@
+[
+  {
+    "id": 737308,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737308,
+    "value": "Kambo",
+    "postal_code": "91925"
+  },
+  {
+    "id": 737308,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737308,
+    "value": "Latuppa",
+    "postal_code": "91921"
+  },
+  {
+    "id": 737308,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737308,
+    "value": "Mungkajang",
+    "postal_code": "91921"
+  },
+  {
+    "id": 737308,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737308,
+    "value": "Murante",
+    "postal_code": "91924"
+  }
+]

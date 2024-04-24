@@ -1,0 +1,50 @@
+[
+  {
+    "id": 327904,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327904,
+    "value": "Bojongkantong",
+    "postal_code": "46325"
+  },
+  {
+    "id": 327904,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327904,
+    "value": "Kujangsari",
+    "postal_code": "46324"
+  },
+  {
+    "id": 327904,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327904,
+    "value": "Langensari",
+    "postal_code": "46324"
+  },
+  {
+    "id": 327904,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327904,
+    "value": "Muktisari",
+    "postal_code": "46343"
+  },
+  {
+    "id": 327904,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327904,
+    "value": "Rejasari",
+    "postal_code": "46344"
+  },
+  {
+    "id": 327904,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327904,
+    "value": "Waringinsari",
+    "postal_code": "46342"
+  }
+]

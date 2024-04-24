@@ -1,0 +1,50 @@
+[
+  {
+    "id": 127106,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127106,
+    "value": "Kota Bangun",
+    "postal_code": "20243"
+  },
+  {
+    "id": 127106,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127106,
+    "value": "Mabar",
+    "postal_code": "20242"
+  },
+  {
+    "id": 127106,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127106,
+    "value": "Mabar Hilir",
+    "postal_code": "20242"
+  },
+  {
+    "id": 127106,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127106,
+    "value": "Tanjung Mulia Hilir",
+    "postal_code": "20241"
+  },
+  {
+    "id": 127106,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127106,
+    "value": "Tanjung Mulya (Tanjung Mulia)",
+    "postal_code": "20241"
+  },
+  {
+    "id": 127106,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127106,
+    "value": "Titipapan (Titi Papan)",
+    "postal_code": "20244"
+  }
+]

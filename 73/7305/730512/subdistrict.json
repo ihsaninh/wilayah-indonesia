@@ -1,0 +1,50 @@
+[
+  {
+    "id": 730512,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730512,
+    "value": "Bontoparang",
+    "postal_code": "92261"
+  },
+  {
+    "id": 730512,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730512,
+    "value": "Cikoang (Cikowang)",
+    "postal_code": "92261"
+  },
+  {
+    "id": 730512,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730512,
+    "value": "Laikang",
+    "postal_code": "92261"
+  },
+  {
+    "id": 730512,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730512,
+    "value": "Panyangkalang",
+    "postal_code": "92261"
+  },
+  {
+    "id": 730512,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730512,
+    "value": "Pattopakang (Pattoppakang)",
+    "postal_code": "92261"
+  },
+  {
+    "id": 730512,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730512,
+    "value": "Punaga",
+    "postal_code": "92261"
+  }
+]

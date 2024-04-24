@@ -1,0 +1,50 @@
+[
+  {
+    "id": 350728,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350728,
+    "value": "Bayem",
+    "postal_code": "65393"
+  },
+  {
+    "id": 350728,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350728,
+    "value": "Kasembon",
+    "postal_code": "65393"
+  },
+  {
+    "id": 350728,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350728,
+    "value": "Pait",
+    "postal_code": "65393"
+  },
+  {
+    "id": 350728,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350728,
+    "value": "Pondokagung (Pondok Agung)",
+    "postal_code": "65393"
+  },
+  {
+    "id": 350728,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350728,
+    "value": "Sukosari",
+    "postal_code": "65393"
+  },
+  {
+    "id": 350728,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350728,
+    "value": "Wonoagung",
+    "postal_code": "65393"
+  }
+]

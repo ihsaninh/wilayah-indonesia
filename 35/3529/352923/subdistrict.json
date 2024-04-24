@@ -1,0 +1,34 @@
+[
+  {
+    "id": 352923,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352923,
+    "value": "Kramian (Karamian)",
+    "postal_code": "69492"
+  },
+  {
+    "id": 352923,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352923,
+    "value": "Masakambing",
+    "postal_code": "69492"
+  },
+  {
+    "id": 352923,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352923,
+    "value": "Masalima (Massalima)",
+    "postal_code": "69492"
+  },
+  {
+    "id": 352923,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352923,
+    "value": "Sukajeruk",
+    "postal_code": "69492"
+  }
+]

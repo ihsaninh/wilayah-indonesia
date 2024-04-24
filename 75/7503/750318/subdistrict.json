@@ -1,0 +1,42 @@
+[
+  {
+    "id": 750318,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750318,
+    "value": "Bangio",
+    "postal_code": "96561"
+  },
+  {
+    "id": 750318,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750318,
+    "value": "Dataran Hijau",
+    "postal_code": "96561"
+  },
+  {
+    "id": 750318,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750318,
+    "value": "Pinogu",
+    "postal_code": "96561"
+  },
+  {
+    "id": 750318,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750318,
+    "value": "Pinogu Permai",
+    "postal_code": "96561"
+  },
+  {
+    "id": 750318,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750318,
+    "value": "Tilonggibila",
+    "postal_code": "96561"
+  }
+]

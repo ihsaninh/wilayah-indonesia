@@ -1,0 +1,42 @@
+[
+  {
+    "id": 317102,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317102,
+    "value": "Gunung Sahari Utara",
+    "postal_code": "10720"
+  },
+  {
+    "id": 317102,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317102,
+    "value": "Karang Anyar",
+    "postal_code": "10740"
+  },
+  {
+    "id": 317102,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317102,
+    "value": "Kartini",
+    "postal_code": "10750"
+  },
+  {
+    "id": 317102,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317102,
+    "value": "Mangga Dua Selatan",
+    "postal_code": "10730"
+  },
+  {
+    "id": 317102,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317102,
+    "value": "Pasar Baru",
+    "postal_code": "10710"
+  }
+]

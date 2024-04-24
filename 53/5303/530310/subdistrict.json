@@ -1,0 +1,34 @@
+[
+  {
+    "id": 530310,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530310,
+    "value": "Haekto",
+    "postal_code": "85665"
+  },
+  {
+    "id": 530310,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530310,
+    "value": "Kuaken",
+    "postal_code": "85665"
+  },
+  {
+    "id": 530310,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530310,
+    "value": "Manikin",
+    "postal_code": "85665"
+  },
+  {
+    "id": 530310,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530310,
+    "value": "Naob",
+    "postal_code": "85665"
+  }
+]

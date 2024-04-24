@@ -1,0 +1,34 @@
+[
+  {
+    "id": 127302,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127302,
+    "value": "Kota Baringin (Beringin)",
+    "postal_code": "22521"
+  },
+  {
+    "id": 127302,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127302,
+    "value": "Pancuran Gerobak",
+    "postal_code": "22524"
+  },
+  {
+    "id": 127302,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127302,
+    "value": "Pasar Baru",
+    "postal_code": "22522"
+  },
+  {
+    "id": 127302,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127302,
+    "value": "Pasar Belakang",
+    "postal_code": "22523"
+  }
+]

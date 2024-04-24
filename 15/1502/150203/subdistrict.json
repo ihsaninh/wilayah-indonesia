@@ -1,0 +1,138 @@
+[
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Air Lago",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Badak Tekurung",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Durian Rambun",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Lubuk Beringin",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Lubuk Birah",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Muara Siau",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Pasar Muara Siau",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Peradu Temberas (Peradun Temeras)",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Pulau Raman",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Rantau Bayur",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Rantau Bidaro (Rantai Bedaro)",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Rantau Macang",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Rantau Panjang",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Sepantai Renah",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Sungai Ulas",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Teluk Sikumbang",
+    "postal_code": "37370"
+  },
+  {
+    "id": 150203,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150203,
+    "value": "Tiaro",
+    "postal_code": "37370"
+  }
+]

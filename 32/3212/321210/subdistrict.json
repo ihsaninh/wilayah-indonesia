@@ -1,0 +1,90 @@
+[
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Benda",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Dukuh Jeruk (Dukuhjeruk)",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Dukuh Tengah (Dukuhtengah)",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Kaplongan Lor (Kaplonganlor)",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Karangampel",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Karangampel Kidul",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Mundu",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Pringgacala",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Sendang",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Tanjungpura",
+    "postal_code": "45283"
+  },
+  {
+    "id": 321210,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321210,
+    "value": "Tanjungsari",
+    "postal_code": "45283"
+  }
+]

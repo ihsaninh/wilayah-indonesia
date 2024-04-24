@@ -1,0 +1,90 @@
+[
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Cibunar",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Cikuda",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Dago",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Gintungcilejet (Gintung Cilejet)",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Gorowong",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Jagabaya",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Jagabita",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Kabasiran",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Lumpang",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Parungpanjang",
+    "postal_code": "16360"
+  },
+  {
+    "id": 320120,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320120,
+    "value": "Pingku",
+    "postal_code": "16360"
+  }
+]

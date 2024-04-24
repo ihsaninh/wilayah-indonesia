@@ -1,0 +1,50 @@
+[
+  {
+    "id": 160319,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160319,
+    "value": "Betung",
+    "postal_code": "31626"
+  },
+  {
+    "id": 160319,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160319,
+    "value": "Hidup Baru",
+    "postal_code": "31626"
+  },
+  {
+    "id": 160319,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160319,
+    "value": "Padang Bindu",
+    "postal_code": "31626"
+  },
+  {
+    "id": 160319,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160319,
+    "value": "Pagar Dewa",
+    "postal_code": "31626"
+  },
+  {
+    "id": 160319,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160319,
+    "value": "Pagarjati (Pagar Jati)",
+    "postal_code": "31626"
+  },
+  {
+    "id": 160319,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160319,
+    "value": "Rami Pasai",
+    "postal_code": "31626"
+  }
+]

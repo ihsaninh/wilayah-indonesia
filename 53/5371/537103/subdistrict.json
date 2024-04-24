@@ -1,0 +1,42 @@
+[
+  {
+    "id": 537103,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537103,
+    "value": "Kelapa Lima",
+    "postal_code": "85228"
+  },
+  {
+    "id": 537103,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537103,
+    "value": "Lasiana",
+    "postal_code": "85228"
+  },
+  {
+    "id": 537103,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537103,
+    "value": "Oesapa",
+    "postal_code": "85228"
+  },
+  {
+    "id": 537103,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537103,
+    "value": "Oesapa Barat",
+    "postal_code": "85228"
+  },
+  {
+    "id": 537103,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537103,
+    "value": "Oesapa Selatan",
+    "postal_code": "85228"
+  }
+]

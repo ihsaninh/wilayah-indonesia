@@ -1,0 +1,34 @@
+[
+  {
+    "id": 930213,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930213,
+    "value": "Firiwage",
+    "postal_code": "99691"
+  },
+  {
+    "id": 930213,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930213,
+    "value": "Kabuwage",
+    "postal_code": "99691"
+  },
+  {
+    "id": 930213,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930213,
+    "value": "Karuwage",
+    "postal_code": "99691"
+  },
+  {
+    "id": 930213,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930213,
+    "value": "Waliburu",
+    "postal_code": "99691"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 357819,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357819,
+    "value": "Kandangan",
+    "postal_code": "60199"
+  },
+  {
+    "id": 357819,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357819,
+    "value": "Romokalisari",
+    "postal_code": "60192"
+  },
+  {
+    "id": 357819,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357819,
+    "value": "Sememi",
+    "postal_code": "60198"
+  },
+  {
+    "id": 357819,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357819,
+    "value": "Tambak Osowilangun",
+    "postal_code": "60191"
+  }
+]

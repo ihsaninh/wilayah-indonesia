@@ -1,0 +1,50 @@
+[
+  {
+    "id": 327801,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327801,
+    "value": "Argasari",
+    "postal_code": "46122"
+  },
+  {
+    "id": 327801,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327801,
+    "value": "Cilembang",
+    "postal_code": "46123"
+  },
+  {
+    "id": 327801,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327801,
+    "value": "Nagarawangi",
+    "postal_code": "46124"
+  },
+  {
+    "id": 327801,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327801,
+    "value": "Tugujaya",
+    "postal_code": "46126"
+  },
+  {
+    "id": 327801,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327801,
+    "value": "Tuguraja",
+    "postal_code": "46125"
+  },
+  {
+    "id": 327801,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327801,
+    "value": "Yudanagara",
+    "postal_code": "46121"
+  }
+]

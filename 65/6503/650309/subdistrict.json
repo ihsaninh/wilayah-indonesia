@@ -1,0 +1,34 @@
+[
+  {
+    "id": 650309,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650309,
+    "value": "Mansapa",
+    "postal_code": "77480"
+  },
+  {
+    "id": 650309,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650309,
+    "value": "Nunukan Selatan",
+    "postal_code": "77480"
+  },
+  {
+    "id": 650309,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650309,
+    "value": "Selisun",
+    "postal_code": "77480"
+  },
+  {
+    "id": 650309,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650309,
+    "value": "Tanjung Harapan",
+    "postal_code": "77480"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 167106,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167106,
+    "value": "1 Ilir",
+    "postal_code": "30117"
+  },
+  {
+    "id": 167106,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167106,
+    "value": "2 Ilir",
+    "postal_code": "30118"
+  },
+  {
+    "id": 167106,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167106,
+    "value": "3 Ilir",
+    "postal_code": "30116"
+  },
+  {
+    "id": 167106,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167106,
+    "value": "5 Ilir",
+    "postal_code": "30115"
+  },
+  {
+    "id": 167106,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167106,
+    "value": "Lawang Kidul",
+    "postal_code": "30111"
+  },
+  {
+    "id": 167106,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167106,
+    "value": "Sei Buah (Sungai Buah)",
+    "postal_code": "30111"
+  }
+]

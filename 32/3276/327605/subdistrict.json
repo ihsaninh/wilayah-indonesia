@@ -1,0 +1,50 @@
+[
+  {
+    "id": 327605,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327605,
+    "value": "Abadi Jaya (Abadijaya)",
+    "postal_code": "16417"
+  },
+  {
+    "id": 327605,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327605,
+    "value": "Baktijaya",
+    "postal_code": "16418"
+  },
+  {
+    "id": 327605,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327605,
+    "value": "Cisalak",
+    "postal_code": "16416"
+  },
+  {
+    "id": 327605,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327605,
+    "value": "Mekar Jaya (Mekarjaya)",
+    "postal_code": "16411"
+  },
+  {
+    "id": 327605,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327605,
+    "value": "Sukmajaya",
+    "postal_code": "16412"
+  },
+  {
+    "id": 327605,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327605,
+    "value": "Tirtajaya",
+    "postal_code": "16412"
+  }
+]

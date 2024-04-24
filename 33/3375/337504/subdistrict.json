@@ -1,0 +1,50 @@
+[
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337504,
+    "value": "Banyurip",
+    "postal_code": "51139"
+  },
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337504,
+    "value": "Buaran Kradenan",
+    "postal_code": "51132"
+  },
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337504,
+    "value": "Jenggot",
+    "postal_code": "51133"
+  },
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337504,
+    "value": "Kuripan Kertoharjo",
+    "postal_code": "51134"
+  },
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337504,
+    "value": "Kuripan Yosorejo",
+    "postal_code": "51135"
+  },
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337504,
+    "value": "Sokoduwet",
+    "postal_code": "51138"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Bekalar",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Belutu",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Jambai Makmur",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Kandis",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Kandis Kota",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Libo Jaya",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Pencing Bekuto",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Sam Sam",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Simpang Belutu",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Sungai Gondang",
+    "postal_code": "28686"
+  },
+  {
+    "id": 140810,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140810,
+    "value": "Telaga Sam-Sam",
+    "postal_code": "28686"
+  }
+]

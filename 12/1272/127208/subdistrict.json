@@ -1,0 +1,50 @@
+[
+  {
+    "id": 127208,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127208,
+    "value": "Marihat Jaya",
+    "postal_code": "21128"
+  },
+  {
+    "id": 127208,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127208,
+    "value": "Naga Huta (Nagahuta)",
+    "postal_code": "21129"
+  },
+  {
+    "id": 127208,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127208,
+    "value": "Naga Huta Timur",
+    "postal_code": "21129"
+  },
+  {
+    "id": 127208,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127208,
+    "value": "Pematang Marihat",
+    "postal_code": "21127"
+  },
+  {
+    "id": 127208,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127208,
+    "value": "Simarimbun",
+    "postal_code": "21129"
+  },
+  {
+    "id": 127208,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127208,
+    "value": "Tong Marimbun",
+    "postal_code": "21129"
+  }
+]

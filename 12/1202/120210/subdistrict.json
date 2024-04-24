@@ -1,0 +1,114 @@
+[
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Banualuhu (Banua Luhu)",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Doloksaribu (Dolok Saribu)",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Hasibuan",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Lubis",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Lumban Ina Ina",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Lumban Julu",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Lumban Motung",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Lumban Silintong",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Pagaran",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Parhorboan",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Sibaragas",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Simamora Hasibuan",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Sipultak",
+    "postal_code": "22458"
+  },
+  {
+    "id": 120210,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120210,
+    "value": "Sipultak Dolok",
+    "postal_code": "22458"
+  }
+]

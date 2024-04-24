@@ -1,0 +1,42 @@
+[
+  {
+    "id": 737306,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737306,
+    "value": "Battang",
+    "postal_code": "91958"
+  },
+  {
+    "id": 737306,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737306,
+    "value": "Battang Barat",
+    "postal_code": "91921"
+  },
+  {
+    "id": 737306,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737306,
+    "value": "Lebang",
+    "postal_code": "91921"
+  },
+  {
+    "id": 737306,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737306,
+    "value": "Padang Lambe",
+    "postal_code": "91921"
+  },
+  {
+    "id": 737306,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737306,
+    "value": "Tomarundung",
+    "postal_code": "91921"
+  }
+]

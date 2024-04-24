@@ -1,0 +1,42 @@
+[
+  {
+    "id": 647106,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647106,
+    "value": "Damai",
+    "postal_code": "76114"
+  },
+  {
+    "id": 647106,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647106,
+    "value": "Klandasan Ilir",
+    "postal_code": "76113"
+  },
+  {
+    "id": 647106,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647106,
+    "value": "Klandasan Ulu",
+    "postal_code": "76112"
+  },
+  {
+    "id": 647106,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647106,
+    "value": "Prapatan",
+    "postal_code": "76111"
+  },
+  {
+    "id": 647106,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647106,
+    "value": "Telaga Sari",
+    "postal_code": "76111"
+  }
+]

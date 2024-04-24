@@ -1,0 +1,74 @@
+[
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Batulicin (Batu Licin)",
+    "postal_code": "72271"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Danauindah (Danau Indah)",
+    "postal_code": "72273"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Gunungtinggi",
+    "postal_code": "72214"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Kersik Putih",
+    "postal_code": "72215"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Maju Bersama",
+    "postal_code": "72216"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Maju Makmur",
+    "postal_code": "72211"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Polewali Marajae",
+    "postal_code": "72218"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Segumbang",
+    "postal_code": "72211"
+  },
+  {
+    "id": 631001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631001,
+    "value": "Sukamaju",
+    "postal_code": "72217"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Abepantai",
+    "postal_code": "99321"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Asano",
+    "postal_code": "99322"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Awiyo",
+    "postal_code": "99323"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Engros (Enggros)",
+    "postal_code": "99324"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Kota Baru",
+    "postal_code": "99325"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Koya Koso",
+    "postal_code": "99326"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Nafri",
+    "postal_code": "99327"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Vim",
+    "postal_code": "99225"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Wahno",
+    "postal_code": "99226"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Way Mhorock",
+    "postal_code": "99229"
+  },
+  {
+    "id": 917103,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917103,
+    "value": "Yobe",
+    "postal_code": "99329"
+  }
+]

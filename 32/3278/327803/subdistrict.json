@@ -1,0 +1,42 @@
+[
+  {
+    "id": 327803,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327803,
+    "value": "Cikalang",
+    "postal_code": "46114"
+  },
+  {
+    "id": 327803,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327803,
+    "value": "Empangsari",
+    "postal_code": "46113"
+  },
+  {
+    "id": 327803,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327803,
+    "value": "Kahuripan",
+    "postal_code": "46115"
+  },
+  {
+    "id": 327803,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327803,
+    "value": "Lengkongsari",
+    "postal_code": "46111"
+  },
+  {
+    "id": 327803,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327803,
+    "value": "Tawangsari",
+    "postal_code": "46112"
+  }
+]

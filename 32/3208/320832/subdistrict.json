@@ -1,0 +1,90 @@
+[
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Babakanjati",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Bunigeulis",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Cibuntu",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Indapatra",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Jambugeulis",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Karangmuncang",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Koreak",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Panawuan",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Sangkanhurip (Sangkanurip)",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Sangkanmulya",
+    "postal_code": "45556"
+  },
+  {
+    "id": 320832,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320832,
+    "value": "Timbang",
+    "postal_code": "45556"
+  }
+]

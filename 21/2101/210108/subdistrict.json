@@ -1,0 +1,50 @@
+[
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210108,
+    "value": "Bintan Buyu",
+    "postal_code": "29133"
+  },
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210108,
+    "value": "Pangkil",
+    "postal_code": "29136"
+  },
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210108,
+    "value": "Penaga",
+    "postal_code": "29134"
+  },
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210108,
+    "value": "Pengujan",
+    "postal_code": "29135"
+  },
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210108,
+    "value": "Tembeling",
+    "postal_code": "29132"
+  },
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210108,
+    "value": "Tembeling Tanjung",
+    "postal_code": "29132"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Bangunreja",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Bojongsari",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Bumireja",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Ciklapa",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Jatisari",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Kaliwungu",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Kedungreja",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Rejamulya",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Sidanegara",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Tambakreja",
+    "postal_code": "53263"
+  },
+  {
+    "id": 330101,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330101,
+    "value": "Tambaksari",
+    "postal_code": "53263"
+  }
+]

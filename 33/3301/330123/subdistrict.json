@@ -1,0 +1,42 @@
+[
+  {
+    "id": 330123,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330123,
+    "value": "Gumilir",
+    "postal_code": "53231"
+  },
+  {
+    "id": 330123,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330123,
+    "value": "Karangtalun",
+    "postal_code": "53234"
+  },
+  {
+    "id": 330123,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330123,
+    "value": "Kebonmanis",
+    "postal_code": "53235"
+  },
+  {
+    "id": 330123,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330123,
+    "value": "Mertasinga",
+    "postal_code": "53232"
+  },
+  {
+    "id": 330123,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330123,
+    "value": "Tritih Kulon",
+    "postal_code": "53233"
+  }
+]

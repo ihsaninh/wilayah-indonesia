@@ -1,0 +1,42 @@
+[
+  {
+    "id": 347103,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347103,
+    "value": "Baciro",
+    "postal_code": "55225"
+  },
+  {
+    "id": 347103,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347103,
+    "value": "Demangan",
+    "postal_code": "55221"
+  },
+  {
+    "id": 347103,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347103,
+    "value": "Klitren",
+    "postal_code": "55222"
+  },
+  {
+    "id": 347103,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347103,
+    "value": "Kotabaru",
+    "postal_code": "55224"
+  },
+  {
+    "id": 347103,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347103,
+    "value": "Terban",
+    "postal_code": "55223"
+  }
+]

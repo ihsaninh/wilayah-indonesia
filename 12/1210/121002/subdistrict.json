@@ -1,0 +1,74 @@
+[
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Bakaran Batu",
+    "postal_code": "21421"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Danau Bale (Danobale)",
+    "postal_code": "21427"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Lobusona (Lobu Sona)",
+    "postal_code": "21423"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Pardamean (Perdamean)",
+    "postal_code": "21426"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Sidorejo",
+    "postal_code": "21424"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Sigambal",
+    "postal_code": "21425"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Sioldengan",
+    "postal_code": "21428"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Ujung Bandar",
+    "postal_code": "21422"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121002,
+    "value": "Urung Kompas",
+    "postal_code": "21429"
+  }
+]

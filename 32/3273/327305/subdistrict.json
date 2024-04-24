@@ -1,0 +1,50 @@
+[
+  {
+    "id": 327305,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327305,
+    "value": "Campaka",
+    "postal_code": "40184"
+  },
+  {
+    "id": 327305,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327305,
+    "value": "Ciroyom",
+    "postal_code": "40182"
+  },
+  {
+    "id": 327305,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327305,
+    "value": "Dungus Cariang",
+    "postal_code": "40183"
+  },
+  {
+    "id": 327305,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327305,
+    "value": "Garuda",
+    "postal_code": "40184"
+  },
+  {
+    "id": 327305,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327305,
+    "value": "Kebon Jeruk",
+    "postal_code": "40181"
+  },
+  {
+    "id": 327305,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327305,
+    "value": "Maleber (Maleer)",
+    "postal_code": "40184"
+  }
+]

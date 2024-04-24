@@ -1,0 +1,34 @@
+[
+  {
+    "id": 920521,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920521,
+    "value": "Kaliam",
+    "postal_code": "98493"
+  },
+  {
+    "id": 920521,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920521,
+    "value": "Kalwal",
+    "postal_code": "98493"
+  },
+  {
+    "id": 920521,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920521,
+    "value": "Solol",
+    "postal_code": "98493"
+  },
+  {
+    "id": 920521,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920521,
+    "value": "Waibon",
+    "postal_code": "98493"
+  }
+]

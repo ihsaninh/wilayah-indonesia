@@ -1,0 +1,82 @@
+[
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Bubalango",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Buladu",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Buluwatu",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Deme Dua (Deme II)",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Deme Satu (Deme I)",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Dulukapa",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Hulawa",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Koluwoka",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Motiheluma (Motihelumo)",
+    "postal_code": "96515"
+  },
+  {
+    "id": 750511,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750511,
+    "value": "Wubudu",
+    "postal_code": "96515"
+  }
+]

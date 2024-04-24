@@ -1,0 +1,50 @@
+[
+  {
+    "id": 317409,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317409,
+    "value": "Ciganjur",
+    "postal_code": "12630"
+  },
+  {
+    "id": 317409,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317409,
+    "value": "Cipedak",
+    "postal_code": "12630"
+  },
+  {
+    "id": 317409,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317409,
+    "value": "Jagakarsa",
+    "postal_code": "12620"
+  },
+  {
+    "id": 317409,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317409,
+    "value": "Lenteng Agung",
+    "postal_code": "12630"
+  },
+  {
+    "id": 317409,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317409,
+    "value": "Srengseng Sawah",
+    "postal_code": "12640"
+  },
+  {
+    "id": 317409,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317409,
+    "value": "Tanjung Barat",
+    "postal_code": "12530"
+  }
+]

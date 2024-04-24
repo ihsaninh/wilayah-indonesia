@@ -1,0 +1,66 @@
+[
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Baumata",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Baumata Barat",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Baumata Timur",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Baumata Utara",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Bokong",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Kuaklalo",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Oeletsala",
+    "postal_code": "85360"
+  },
+  {
+    "id": 530124,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530124,
+    "value": "Oeltuah (Oeltua)",
+    "postal_code": "85360"
+  }
+]

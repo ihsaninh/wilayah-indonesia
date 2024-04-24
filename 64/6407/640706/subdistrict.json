@@ -1,0 +1,50 @@
+[
+  {
+    "id": 640706,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640706,
+    "value": "Empakuq",
+    "postal_code": "75765"
+  },
+  {
+    "id": 640706,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640706,
+    "value": "Empas",
+    "postal_code": "75765"
+  },
+  {
+    "id": 640706,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640706,
+    "value": "Melak Ilir",
+    "postal_code": "75765"
+  },
+  {
+    "id": 640706,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640706,
+    "value": "Melak Ulu",
+    "postal_code": "75765"
+  },
+  {
+    "id": 640706,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640706,
+    "value": "Muara Benangaq",
+    "postal_code": "75765"
+  },
+  {
+    "id": 640706,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640706,
+    "value": "Muara Bunyut",
+    "postal_code": "75765"
+  }
+]

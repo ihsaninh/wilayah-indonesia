@@ -1,0 +1,26 @@
+[
+  {
+    "id": 130708,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130708,
+    "value": "Koto Tinggi",
+    "postal_code": "26256"
+  },
+  {
+    "id": 130708,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130708,
+    "value": "Pandam Gadang",
+    "postal_code": "26256"
+  },
+  {
+    "id": 130708,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130708,
+    "value": "Talang Anau",
+    "postal_code": "26256"
+  }
+]

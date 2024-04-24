@@ -1,0 +1,90 @@
+[
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Atep Oki",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Kaleosan",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Kapataran",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Kapataran Satu",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Karor",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Kayuroya",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Parentek",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Seretan",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Seretan Timur",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Watulaney",
+    "postal_code": "95685"
+  },
+  {
+    "id": 710205,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710205,
+    "value": "Watulaney Amian",
+    "postal_code": "95685"
+  }
+]

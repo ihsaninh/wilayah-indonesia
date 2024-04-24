@@ -1,0 +1,50 @@
+[
+  {
+    "id": 147112,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147112,
+    "value": "Lembah Damai",
+    "postal_code": "28263"
+  },
+  {
+    "id": 147112,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147112,
+    "value": "Limbungan Baru",
+    "postal_code": "28261"
+  },
+  {
+    "id": 147112,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147112,
+    "value": "Meranti Pandak",
+    "postal_code": "28266"
+  },
+  {
+    "id": 147112,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147112,
+    "value": "Palas",
+    "postal_code": "28264"
+  },
+  {
+    "id": 147112,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147112,
+    "value": "Sri Meranti",
+    "postal_code": "28261"
+  },
+  {
+    "id": 147112,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147112,
+    "value": "Umban Sari",
+    "postal_code": "28265"
+  }
+]

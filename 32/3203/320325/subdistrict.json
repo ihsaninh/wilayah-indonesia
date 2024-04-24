@@ -1,0 +1,42 @@
+[
+  {
+    "id": 320325,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320325,
+    "value": "Campakamulya",
+    "postal_code": "43269"
+  },
+  {
+    "id": 320325,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320325,
+    "value": "Campakawarna",
+    "postal_code": "43269"
+  },
+  {
+    "id": 320325,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320325,
+    "value": "Cibanggala",
+    "postal_code": "43269"
+  },
+  {
+    "id": 320325,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320325,
+    "value": "Sukabungah",
+    "postal_code": "43269"
+  },
+  {
+    "id": 320325,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320325,
+    "value": "Sukasirna",
+    "postal_code": "43269"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 757105,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757105,
+    "value": "Heledulaa Selatan",
+    "postal_code": "96114"
+  },
+  {
+    "id": 757105,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757105,
+    "value": "Heledulaa Utara",
+    "postal_code": "96119"
+  },
+  {
+    "id": 757105,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757105,
+    "value": "Ipilo",
+    "postal_code": "96112"
+  },
+  {
+    "id": 757105,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757105,
+    "value": "Moodu",
+    "postal_code": "96113"
+  },
+  {
+    "id": 757105,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757105,
+    "value": "Padebuolo",
+    "postal_code": "96113"
+  },
+  {
+    "id": 757105,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757105,
+    "value": "Tamalate",
+    "postal_code": "96113"
+  }
+]

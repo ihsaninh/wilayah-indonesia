@@ -1,0 +1,90 @@
+[
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Bungurjaya",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Galudra",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Gurudug",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Parakansalam",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Pondokbungur",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Salamjaya",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Salammulya",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Salem",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Situ",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Sukajadi",
+    "postal_code": "41115"
+  },
+  {
+    "id": 321416,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321416,
+    "value": "Tanjungsari (Tanjung Sari)",
+    "postal_code": "41115"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 730101,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730101,
+    "value": "Benteng",
+    "postal_code": "92812"
+  },
+  {
+    "id": 730101,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730101,
+    "value": "Benteng Selatan",
+    "postal_code": "92812"
+  },
+  {
+    "id": 730101,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730101,
+    "value": "Benteng Utara",
+    "postal_code": "92812"
+  }
+]

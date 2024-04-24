@@ -1,0 +1,74 @@
+[
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Badak",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Blangtemung",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Kendawi",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Panglima/Panglime Linting",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Pangur",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Rerebe",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Sangir",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Uning Gelung",
+    "postal_code": "24652"
+  },
+  {
+    "id": 111308,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111308,
+    "value": "Uning Sepakat",
+    "postal_code": "24652"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Kuala Langsa",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Lhok Banie",
+    "postal_code": "24415"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Matang Seulimeng",
+    "postal_code": "24413"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Paya Bujok Beuramo (Beuramoe)",
+    "postal_code": "24414"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Paya Bujok Teungoh",
+    "postal_code": "24415"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Serambi Indah",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Seuriget",
+    "postal_code": "24415"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Simpang Lhee",
+    "postal_code": "24451"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Sungai Pauh",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Sungai Pauh Firdaus (Sungai Paus Firdaus)",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Sungai Pauh Pusaka (Sungai Paus Pusaka)",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Sungai Pauh Tanjong (Sungai Paus Tanjong)",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117402,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117402,
+    "value": "Teulaga Tujuh (Telaga Tujuh)",
+    "postal_code": "24410"
+  }
+]

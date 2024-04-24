@@ -1,0 +1,34 @@
+[
+  {
+    "id": 357830,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357830,
+    "value": "Babat Jerawat",
+    "postal_code": "60197"
+  },
+  {
+    "id": 357830,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357830,
+    "value": "Benowo",
+    "postal_code": "60195"
+  },
+  {
+    "id": 357830,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357830,
+    "value": "Pakal",
+    "postal_code": "60196"
+  },
+  {
+    "id": 357830,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357830,
+    "value": "Sumber Rejo",
+    "postal_code": "60192"
+  }
+]

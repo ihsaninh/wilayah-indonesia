@@ -1,0 +1,90 @@
+[
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Kendo",
+    "postal_code": "84119"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Nitu",
+    "postal_code": "84119"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Ntobo",
+    "postal_code": "84119"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Penanae",
+    "postal_code": "84119"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Penaraga",
+    "postal_code": "84115"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Rabadompu Barat",
+    "postal_code": "84113"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Rabadompu Timur",
+    "postal_code": "84113"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Rabangodu Selatan",
+    "postal_code": "84113"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Rabangodu Utara",
+    "postal_code": "84113"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Rite",
+    "postal_code": "84119"
+  },
+  {
+    "id": 527204,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527204,
+    "value": "Rontu",
+    "postal_code": "84119"
+  }
+]

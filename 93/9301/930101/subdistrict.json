@@ -1,0 +1,130 @@
+[
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Bambu Pemali",
+    "postal_code": "99616"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Bokem",
+    "postal_code": "99604"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Buti",
+    "postal_code": "99605"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Kamahedoga",
+    "postal_code": "99606"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Kamundu",
+    "postal_code": "99607"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Karang Indah",
+    "postal_code": "99614"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Kelapa Lima",
+    "postal_code": "99612"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Mandala",
+    "postal_code": "99617"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Maro",
+    "postal_code": "99613"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Muli",
+    "postal_code": "99608"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Nasem",
+    "postal_code": "99618"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Nggolar",
+    "postal_code": "99609"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Rimba Jaya",
+    "postal_code": "99610"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Samkai",
+    "postal_code": "99615"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Seringgu Jaya",
+    "postal_code": "99619"
+  },
+  {
+    "id": 930101,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930101,
+    "value": "Wasur",
+    "postal_code": "99611"
+  }
+]

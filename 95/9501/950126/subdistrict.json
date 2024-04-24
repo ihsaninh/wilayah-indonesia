@@ -1,0 +1,42 @@
+[
+  {
+    "id": 950126,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950126,
+    "value": "Koragi",
+    "postal_code": "99544"
+  },
+  {
+    "id": 950126,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950126,
+    "value": "Kumudiluk",
+    "postal_code": "99544"
+  },
+  {
+    "id": 950126,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950126,
+    "value": "Tagibaga",
+    "postal_code": "99544"
+  },
+  {
+    "id": 950126,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950126,
+    "value": "Telegai",
+    "postal_code": "99544"
+  },
+  {
+    "id": 950126,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950126,
+    "value": "Tenondek",
+    "postal_code": "99544"
+  }
+]

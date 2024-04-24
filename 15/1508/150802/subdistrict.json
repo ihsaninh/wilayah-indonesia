@@ -1,0 +1,50 @@
+[
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150802,
+    "value": "Leban",
+    "postal_code": "37261"
+  },
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150802,
+    "value": "Lubuk Kayu Aro",
+    "postal_code": "37261"
+  },
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150802,
+    "value": "Lubuk Mayan",
+    "postal_code": "37261"
+  },
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150802,
+    "value": "Rantau Duku",
+    "postal_code": "37261"
+  },
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150802,
+    "value": "Rantau Pandan",
+    "postal_code": "37261"
+  },
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150802,
+    "value": "Talang Sungai Bungo",
+    "postal_code": "37261"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 127113,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127113,
+    "value": "Besar",
+    "postal_code": "20251"
+  },
+  {
+    "id": 127113,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127113,
+    "value": "Martubung",
+    "postal_code": "20252"
+  },
+  {
+    "id": 127113,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127113,
+    "value": "Nelayan Indah",
+    "postal_code": "20524"
+  },
+  {
+    "id": 127113,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127113,
+    "value": "Pekan Labuhan",
+    "postal_code": "20253"
+  },
+  {
+    "id": 127113,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127113,
+    "value": "Sei Mati",
+    "postal_code": "20252"
+  },
+  {
+    "id": 127113,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127113,
+    "value": "Tangkahan",
+    "postal_code": "20525"
+  }
+]

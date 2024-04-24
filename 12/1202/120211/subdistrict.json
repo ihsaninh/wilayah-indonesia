@@ -1,0 +1,114 @@
+[
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Aek Raja",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Batuarimo (Batu Arimo)",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Horisan Ranggitgit (Horison Ranggigit)",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Hutajulu",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Hutajulu Parbalik/Purbalik",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Hutatinggi",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Hutatua",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Lobusunut",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Manalu",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Manalu Dolok",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Manalu Purba",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Pertengahan",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Purba Dolok",
+    "postal_code": "22453"
+  },
+  {
+    "id": 120211,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120211,
+    "value": "Sisordak",
+    "postal_code": "22453"
+  }
+]

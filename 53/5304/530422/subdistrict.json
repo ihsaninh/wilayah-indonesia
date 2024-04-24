@@ -1,0 +1,34 @@
+[
+  {
+    "id": 530422,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530422,
+    "value": "Fatukbot",
+    "postal_code": "85717"
+  },
+  {
+    "id": 530422,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530422,
+    "value": "Lidak",
+    "postal_code": "85716"
+  },
+  {
+    "id": 530422,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530422,
+    "value": "Manuaman",
+    "postal_code": "85718"
+  },
+  {
+    "id": 530422,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530422,
+    "value": "Rinbesi",
+    "postal_code": "85718"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Kelompu",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Kuala Dua",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Mobui",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Sebongkuh",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Sebuduh",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Sejuah",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Semayang",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Tanap",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Tanjung Bunga",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Tanjung Merpati",
+    "postal_code": "78553"
+  },
+  {
+    "id": 610308,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610308,
+    "value": "Tunggal Bhakti",
+    "postal_code": "78553"
+  }
+]

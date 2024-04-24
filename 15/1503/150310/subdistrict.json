@@ -1,0 +1,82 @@
+[
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Kampung Tujuh",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Lubuk Resam",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Lubuk Resam Hilir",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Pemuncak (Pemancak)",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Sekamis",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Sungai Keramat (Sungaikeramat)",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Tambang Tinggi",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Teluk Rendah (Telukrendah)",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Teluk Tigo (Teluktigo)",
+    "postal_code": "37381"
+  },
+  {
+    "id": 150310,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150310,
+    "value": "Tendah",
+    "postal_code": "37381"
+  }
+]

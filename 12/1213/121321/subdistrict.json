@@ -1,0 +1,66 @@
+[
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Huta Gambir",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Huta Julu",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Huta Lancat",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Huta Padang",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Huta Toras",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Pakantan Dolok",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Pakantan Lombang",
+    "postal_code": "22997"
+  },
+  {
+    "id": 121321,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121321,
+    "value": "Silogun",
+    "postal_code": "22997"
+  }
+]

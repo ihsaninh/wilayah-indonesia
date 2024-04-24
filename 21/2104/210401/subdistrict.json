@@ -1,0 +1,50 @@
+[
+  {
+    "id": 210401,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210401,
+    "value": "Batu Berdaun",
+    "postal_code": "29871"
+  },
+  {
+    "id": 210401,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210401,
+    "value": "Batu Kacang",
+    "postal_code": "29871"
+  },
+  {
+    "id": 210401,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210401,
+    "value": "Dabo",
+    "postal_code": "29871"
+  },
+  {
+    "id": 210401,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210401,
+    "value": "Dabo Lama",
+    "postal_code": "29871"
+  },
+  {
+    "id": 210401,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210401,
+    "value": "Sungailumpur",
+    "postal_code": "29871"
+  },
+  {
+    "id": 210401,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210401,
+    "value": "Tanjung Harapan",
+    "postal_code": "29871"
+  }
+]

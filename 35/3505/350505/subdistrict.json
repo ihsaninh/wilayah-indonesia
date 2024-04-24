@@ -1,0 +1,90 @@
+[
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Bakung",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Bululawang",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Kedungbanteng",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Lorejo",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Ngrejo",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Plandirejo",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Pulerejo",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Sidomulyo",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Sumberdadi",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Tumpakkepuh",
+    "postal_code": "66163"
+  },
+  {
+    "id": 350505,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350505,
+    "value": "Tumpakoyot",
+    "postal_code": "66163"
+  }
+]

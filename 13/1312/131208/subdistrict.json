@@ -1,0 +1,50 @@
+[
+  {
+    "id": 131208,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131208,
+    "value": "Koto Nan Duo",
+    "postal_code": "26572"
+  },
+  {
+    "id": 131208,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131208,
+    "value": "Koto Tangah",
+    "postal_code": "26572"
+  },
+  {
+    "id": 131208,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131208,
+    "value": "Koto Tuo",
+    "postal_code": "26572"
+  },
+  {
+    "id": 131208,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131208,
+    "value": "Parit (Parik)",
+    "postal_code": "26572"
+  },
+  {
+    "id": 131208,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131208,
+    "value": "Pematang Panjang",
+    "postal_code": "26572"
+  },
+  {
+    "id": 131208,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131208,
+    "value": "Ranah Koto Tinggi",
+    "postal_code": "26572"
+  }
+]

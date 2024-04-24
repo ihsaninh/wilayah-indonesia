@@ -1,0 +1,34 @@
+[
+  {
+    "id": 121115,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121115,
+    "value": "Panji Dabutar (Bako)",
+    "postal_code": "22219"
+  },
+  {
+    "id": 121115,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121115,
+    "value": "Sitinjo",
+    "postal_code": "22219"
+  },
+  {
+    "id": 121115,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121115,
+    "value": "Sitinjo I",
+    "postal_code": "22219"
+  },
+  {
+    "id": 121115,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121115,
+    "value": "Sitinjo II",
+    "postal_code": "22219"
+  }
+]

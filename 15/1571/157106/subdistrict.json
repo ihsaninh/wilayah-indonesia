@@ -1,0 +1,42 @@
+[
+  {
+    "id": 157106,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157106,
+    "value": "Olak Kemang",
+    "postal_code": "36262"
+  },
+  {
+    "id": 157106,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157106,
+    "value": "Pasir Panjang",
+    "postal_code": "36265"
+  },
+  {
+    "id": 157106,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157106,
+    "value": "Tanjung Pasir",
+    "postal_code": "36263"
+  },
+  {
+    "id": 157106,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157106,
+    "value": "Tanjung Raden",
+    "postal_code": "36264"
+  },
+  {
+    "id": 157106,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157106,
+    "value": "Ulu Gedong",
+    "postal_code": "36261"
+  }
+]

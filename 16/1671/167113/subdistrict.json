@@ -1,0 +1,50 @@
+[
+  {
+    "id": 167113,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167113,
+    "value": "Karya Jaya",
+    "postal_code": "30259"
+  },
+  {
+    "id": 167113,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167113,
+    "value": "Kemang Agung",
+    "postal_code": "30258"
+  },
+  {
+    "id": 167113,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167113,
+    "value": "Kemas Rindo",
+    "postal_code": "30258"
+  },
+  {
+    "id": 167113,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167113,
+    "value": "Keramasan",
+    "postal_code": "30259"
+  },
+  {
+    "id": 167113,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167113,
+    "value": "Kertapati",
+    "postal_code": "30258"
+  },
+  {
+    "id": 167113,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167113,
+    "value": "Ogan Baru",
+    "postal_code": "30258"
+  }
+]

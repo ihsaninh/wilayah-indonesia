@@ -1,0 +1,26 @@
+[
+  {
+    "id": 210310,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210310,
+    "value": "Air Payang",
+    "postal_code": "29789"
+  },
+  {
+    "id": 210310,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210310,
+    "value": "Kadur",
+    "postal_code": "29789"
+  },
+  {
+    "id": 210310,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210310,
+    "value": "Tanjung Pala",
+    "postal_code": "29789"
+  }
+]

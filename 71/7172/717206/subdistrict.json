@@ -1,0 +1,58 @@
+[
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Girian Atas",
+    "postal_code": "95544"
+  },
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Girian Bawah",
+    "postal_code": "95542"
+  },
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Girian Indah",
+    "postal_code": "95511"
+  },
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Girian Permai",
+    "postal_code": "95511"
+  },
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Girian Weru Dua (II)",
+    "postal_code": "95543"
+  },
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Girian Weru Satu (I)",
+    "postal_code": "95543"
+  },
+  {
+    "id": 717206,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717206,
+    "value": "Wangurer",
+    "postal_code": "95543"
+  }
+]

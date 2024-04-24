@@ -1,0 +1,50 @@
+[
+  {
+    "id": 640310,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640310,
+    "value": "Buyung-Buyung (Radak)",
+    "postal_code": "77374"
+  },
+  {
+    "id": 640310,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640310,
+    "value": "Harapan Maju",
+    "postal_code": "77374"
+  },
+  {
+    "id": 640310,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640310,
+    "value": "Semurut",
+    "postal_code": "77374"
+  },
+  {
+    "id": 640310,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640310,
+    "value": "Tabalar Muara",
+    "postal_code": "77374"
+  },
+  {
+    "id": 640310,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640310,
+    "value": "Tabalar Ulu",
+    "postal_code": "77374"
+  },
+  {
+    "id": 640310,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640310,
+    "value": "Tubaan",
+    "postal_code": "77374"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 917105,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917105,
+    "value": "Hedam",
+    "postal_code": "99331"
+  },
+  {
+    "id": 917105,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917105,
+    "value": "Waena",
+    "postal_code": "99332"
+  },
+  {
+    "id": 917105,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917105,
+    "value": "Waena II",
+    "postal_code": "99328"
+  },
+  {
+    "id": 917105,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917105,
+    "value": "Yabansai",
+    "postal_code": "99333"
+  },
+  {
+    "id": 917105,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917105,
+    "value": "Yoka",
+    "postal_code": "99334"
+  }
+]

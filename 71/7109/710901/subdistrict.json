@@ -1,0 +1,130 @@
+[
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Akesimbeka",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Apelawo",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Bahu",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Bebali",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Buise",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Bukide",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Dame",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Dame I",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Deahe (Beaha)",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Kanang",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Karalung",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Karalung Satu",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Lia",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Lia Satu",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Tarorane",
+    "postal_code": "95861"
+  },
+  {
+    "id": 710901,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710901,
+    "value": "Tatahadeng (Tatehadeng)",
+    "postal_code": "95861"
+  }
+]

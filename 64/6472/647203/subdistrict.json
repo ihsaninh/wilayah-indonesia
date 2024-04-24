@@ -1,0 +1,66 @@
+[
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Air Hitam",
+    "postal_code": "75124"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Air Putih",
+    "postal_code": "75124"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Bukit Pinang",
+    "postal_code": "75124"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Dadi Mulya",
+    "postal_code": "75123"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Gunung Kelua",
+    "postal_code": "75123"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Jawa",
+    "postal_code": "75122"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Sidodadi",
+    "postal_code": "75123"
+  },
+  {
+    "id": 647203,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647203,
+    "value": "Teluk Lerong Ilir",
+    "postal_code": "75128"
+  }
+]

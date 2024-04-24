@@ -1,0 +1,34 @@
+[
+  {
+    "id": 940606,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940606,
+    "value": "Abouyaga",
+    "postal_code": "98872"
+  },
+  {
+    "id": 940606,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940606,
+    "value": "Maikotu",
+    "postal_code": "98872"
+  },
+  {
+    "id": 940606,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940606,
+    "value": "Taubaikebo (Toubaikebo / Tobaikebo)",
+    "postal_code": "98872"
+  },
+  {
+    "id": 940606,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940606,
+    "value": "Yegoukotu",
+    "postal_code": "98872"
+  }
+]

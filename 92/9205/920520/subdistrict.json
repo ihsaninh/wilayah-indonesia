@@ -1,0 +1,34 @@
+[
+  {
+    "id": 920520,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920520,
+    "value": "Arefi Selatan",
+    "postal_code": "98492"
+  },
+  {
+    "id": 920520,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920520,
+    "value": "Arefi Timur",
+    "postal_code": "98492"
+  },
+  {
+    "id": 920520,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920520,
+    "value": "Yensawai Barat",
+    "postal_code": "98492"
+  },
+  {
+    "id": 920520,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920520,
+    "value": "Yensawai Timur",
+    "postal_code": "98492"
+  }
+]

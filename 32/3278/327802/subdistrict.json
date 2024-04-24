@@ -1,0 +1,34 @@
+[
+  {
+    "id": 327802,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327802,
+    "value": "Cipedes",
+    "postal_code": "46133"
+  },
+  {
+    "id": 327802,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327802,
+    "value": "Nagarasari",
+    "postal_code": "46132"
+  },
+  {
+    "id": 327802,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327802,
+    "value": "Panglayungan",
+    "postal_code": "46134"
+  },
+  {
+    "id": 327802,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327802,
+    "value": "Sukamanah",
+    "postal_code": "46131"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 140418,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140418,
+    "value": "Concong Dalam",
+    "postal_code": "29281"
+  },
+  {
+    "id": 140418,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140418,
+    "value": "Concong Luar",
+    "postal_code": "29281"
+  },
+  {
+    "id": 140418,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140418,
+    "value": "Concong Tengah",
+    "postal_code": "29281"
+  },
+  {
+    "id": 140418,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140418,
+    "value": "Kampung Baru",
+    "postal_code": "29281"
+  },
+  {
+    "id": 140418,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140418,
+    "value": "Panglima Raja",
+    "postal_code": "29281"
+  },
+  {
+    "id": 140418,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140418,
+    "value": "Sungaiberapit (Sungai Berapit)",
+    "postal_code": "29281"
+  }
+]

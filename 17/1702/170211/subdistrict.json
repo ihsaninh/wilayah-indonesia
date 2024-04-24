@@ -1,0 +1,114 @@
+[
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Air Duku",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Air Meles Atas",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Air Putih Kali Bandung",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Cawang Baru",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Cawang Lama",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Kali Padang",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Kampung Baru",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Karang Jaya",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Kayu Manis",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Sambirejo",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Simpang Nangka",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Suban Ayam",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Sumber Bening",
+    "postal_code": "39153"
+  },
+  {
+    "id": 170211,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170211,
+    "value": "Sumber Urip",
+    "postal_code": "39153"
+  }
+]

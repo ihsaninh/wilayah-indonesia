@@ -1,0 +1,50 @@
+[
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150810,
+    "value": "Babeko",
+    "postal_code": "37210"
+  },
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150810,
+    "value": "Sepunggur",
+    "postal_code": "37210"
+  },
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150810,
+    "value": "Simpang Bebeko (Simpang Babeko)",
+    "postal_code": "37210"
+  },
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150810,
+    "value": "Suka Makmur",
+    "postal_code": "37210"
+  },
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150810,
+    "value": "Tanjung Menanti",
+    "postal_code": "37210"
+  },
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150810,
+    "value": "Tuo Sepunggur",
+    "postal_code": "37210"
+  }
+]

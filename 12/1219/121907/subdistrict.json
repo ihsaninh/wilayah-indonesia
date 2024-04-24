@@ -1,0 +1,114 @@
+[
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Benteng Jaya",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Durian",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Kwala Sikasim",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Mekar Baru",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Mekar Mulio",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Perjuangan",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Perkebunan Sei Balai",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Perkebunan Sei Bejangkar",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Sei Balai",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Sei Bejangkar",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Sidomulio",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Suka Ramai",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Suko Rejo",
+    "postal_code": "21252"
+  },
+  {
+    "id": 121907,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121907,
+    "value": "Tanah Timbul",
+    "postal_code": "21252"
+  }
+]

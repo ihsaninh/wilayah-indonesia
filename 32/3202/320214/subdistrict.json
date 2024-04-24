@@ -1,0 +1,42 @@
+[
+  {
+    "id": 320214,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320214,
+    "value": "Berekah",
+    "postal_code": "43353"
+  },
+  {
+    "id": 320214,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320214,
+    "value": "Bojonggaling (Bojong Galing / Galih)",
+    "postal_code": "43353"
+  },
+  {
+    "id": 320214,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320214,
+    "value": "Bojonggenteng (Bojong Genteng)",
+    "postal_code": "43353"
+  },
+  {
+    "id": 320214,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320214,
+    "value": "Cibodas",
+    "postal_code": "43353"
+  },
+  {
+    "id": 320214,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320214,
+    "value": "Cipanengah",
+    "postal_code": "43353"
+  }
+]

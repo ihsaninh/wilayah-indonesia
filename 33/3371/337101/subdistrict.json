@@ -1,0 +1,50 @@
+[
+  {
+    "id": 337101,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337101,
+    "value": "Jurangombo Selatan",
+    "postal_code": "56123"
+  },
+  {
+    "id": 337101,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337101,
+    "value": "Jurangombo Utara",
+    "postal_code": "56123"
+  },
+  {
+    "id": 337101,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337101,
+    "value": "Magersari",
+    "postal_code": "56126"
+  },
+  {
+    "id": 337101,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337101,
+    "value": "Rejowinangun Selatan",
+    "postal_code": "56124"
+  },
+  {
+    "id": 337101,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337101,
+    "value": "Tidar Selatan",
+    "postal_code": "56125"
+  },
+  {
+    "id": 337101,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337101,
+    "value": "Tidar Utara",
+    "postal_code": "56125"
+  }
+]

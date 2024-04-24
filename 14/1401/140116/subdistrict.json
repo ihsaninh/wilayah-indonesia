@@ -1,0 +1,42 @@
+[
+  {
+    "id": 140116,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140116,
+    "value": "Hangtuah",
+    "postal_code": "28462"
+  },
+  {
+    "id": 140116,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140116,
+    "value": "Kampung Pinang",
+    "postal_code": "28462"
+  },
+  {
+    "id": 140116,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140116,
+    "value": "Lubuk Sakat",
+    "postal_code": "28462"
+  },
+  {
+    "id": 140116,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140116,
+    "value": "Pantai Raja",
+    "postal_code": "28462"
+  },
+  {
+    "id": 140116,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140116,
+    "value": "Sialang Kubang",
+    "postal_code": "28462"
+  }
+]

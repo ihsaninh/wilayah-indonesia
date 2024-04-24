@@ -1,0 +1,50 @@
+[
+  {
+    "id": 180405,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180405,
+    "value": "Simpang Sari (Simpangsari)",
+    "postal_code": "34870"
+  },
+  {
+    "id": 180405,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180405,
+    "value": "Sindang Pagar",
+    "postal_code": "34870"
+  },
+  {
+    "id": 180405,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180405,
+    "value": "Sukajaya",
+    "postal_code": "34870"
+  },
+  {
+    "id": 180405,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180405,
+    "value": "Sukapura",
+    "postal_code": "34870"
+  },
+  {
+    "id": 180405,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180405,
+    "value": "Tugu Sari",
+    "postal_code": "34870"
+  },
+  {
+    "id": 180405,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180405,
+    "value": "Way Petay/Petai",
+    "postal_code": "34870"
+  }
+]

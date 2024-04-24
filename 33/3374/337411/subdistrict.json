@@ -1,0 +1,90 @@
+[
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Banyumanik",
+    "postal_code": "50264"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Gedawang",
+    "postal_code": "50266"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Jabungan",
+    "postal_code": "50266"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Ngesrep",
+    "postal_code": "50261"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Padangsari",
+    "postal_code": "50267"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Pedalangan",
+    "postal_code": "50268"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Pudakpayung",
+    "postal_code": "50265"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Srondol Kulon",
+    "postal_code": "50263"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Srondol Wetan",
+    "postal_code": "50263"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Sumurboto",
+    "postal_code": "50269"
+  },
+  {
+    "id": 337411,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337411,
+    "value": "Tinjomoyo",
+    "postal_code": "50262"
+  }
+]

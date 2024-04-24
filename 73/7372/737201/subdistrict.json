@@ -1,0 +1,34 @@
+[
+  {
+    "id": 737201,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737201,
+    "value": "Galung Maloang",
+    "postal_code": "91121"
+  },
+  {
+    "id": 737201,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737201,
+    "value": "Lemoe",
+    "postal_code": "91121"
+  },
+  {
+    "id": 737201,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737201,
+    "value": "Lompoe",
+    "postal_code": "91125"
+  },
+  {
+    "id": 737201,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737201,
+    "value": "WT. Bacukiki (Wattang Bacukiki)",
+    "postal_code": "91121"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 210203,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210203,
+    "value": "Lubuk Semut",
+    "postal_code": "29661"
+  },
+  {
+    "id": 210203,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210203,
+    "value": "Sungai Lakam Barat (Sungailakam Barat)",
+    "postal_code": "29661"
+  },
+  {
+    "id": 210203,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210203,
+    "value": "Sungai Lakam Timur (Sungailakam Timur)",
+    "postal_code": "29661"
+  },
+  {
+    "id": 210203,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210203,
+    "value": "Tanjung Balai",
+    "postal_code": "29661"
+  },
+  {
+    "id": 210203,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210203,
+    "value": "Tanjung Balai Kota",
+    "postal_code": "29661"
+  },
+  {
+    "id": 210203,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210203,
+    "value": "Teluk Air (Telukair)",
+    "postal_code": "29661"
+  }
+]

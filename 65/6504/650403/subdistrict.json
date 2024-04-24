@@ -1,0 +1,42 @@
+[
+  {
+    "id": 650403,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650403,
+    "value": "Sambungan",
+    "postal_code": "77451"
+  },
+  {
+    "id": 650403,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650403,
+    "value": "Sambungan Selatan",
+    "postal_code": "77451"
+  },
+  {
+    "id": 650403,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650403,
+    "value": "Tanah Merah",
+    "postal_code": "77451"
+  },
+  {
+    "id": 650403,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650403,
+    "value": "Tanah Merah Barat",
+    "postal_code": "77451"
+  },
+  {
+    "id": 650403,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650403,
+    "value": "Tengku Dacing",
+    "postal_code": "77451"
+  }
+]

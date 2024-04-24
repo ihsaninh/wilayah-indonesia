@@ -1,0 +1,42 @@
+[
+  {
+    "id": 130612,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130612,
+    "value": "Batagak",
+    "postal_code": "26182"
+  },
+  {
+    "id": 130612,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130612,
+    "value": "Batu Palano",
+    "postal_code": "26182"
+  },
+  {
+    "id": 130612,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130612,
+    "value": "Padang Laweh",
+    "postal_code": "26182"
+  },
+  {
+    "id": 130612,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130612,
+    "value": "Sariak",
+    "postal_code": "26182"
+  },
+  {
+    "id": 130612,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130612,
+    "value": "Sungai Pua",
+    "postal_code": "26182"
+  }
+]

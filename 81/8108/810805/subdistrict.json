@@ -1,0 +1,90 @@
+[
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Ahanari",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Analutur",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Emplawas (Empalwas)",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Kokwari",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Kroing",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Letwurung",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Manuweri (Manuari)",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Nakarhamto",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Tutuwawang",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Wakpapapi",
+    "postal_code": "97654"
+  },
+  {
+    "id": 810805,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810805,
+    "value": "Yatoke",
+    "postal_code": "97654"
+  }
+]

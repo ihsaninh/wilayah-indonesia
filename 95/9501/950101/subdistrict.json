@@ -1,0 +1,90 @@
+[
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Autakma",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Batu Merah",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Honaima",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Honelama",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Honelama Dua",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Hulekama / Hurekama",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Lanitipo",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Sinakma",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Sinapuk",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Wamaroma",
+    "postal_code": "99511"
+  },
+  {
+    "id": 950101,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950101,
+    "value": "Wamena Kota",
+    "postal_code": "99511"
+  }
+]

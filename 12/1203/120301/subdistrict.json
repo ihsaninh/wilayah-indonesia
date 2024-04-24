@@ -1,0 +1,114 @@
+[
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Aek Nabara",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Lembah Lubuk Raya",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Lobu Layan Sigordang (Lobulayan Sigordang)",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Panobasan",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Panobasan Lombang",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Parsalakan",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Sialogo",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Sibangkua",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Sigumuru",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Simatorkis Sisoma",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Sisundung",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Sitaratoit",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Sitinjak",
+    "postal_code": "22735"
+  },
+  {
+    "id": 120301,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120301,
+    "value": "Siuhom",
+    "postal_code": "22735"
+  }
+]

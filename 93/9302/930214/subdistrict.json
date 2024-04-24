@@ -1,0 +1,26 @@
+[
+  {
+    "id": 930214,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930214,
+    "value": "Fefero (Fefeko)",
+    "postal_code": "99685"
+  },
+  {
+    "id": 930214,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930214,
+    "value": "Manggemakhe (Manggemahe)",
+    "postal_code": "99685"
+  },
+  {
+    "id": 930214,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930214,
+    "value": "Yaniruma",
+    "postal_code": "99685"
+  }
+]

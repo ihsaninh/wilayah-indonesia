@@ -1,0 +1,82 @@
+[
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Alue Beurawe (Alue Berawe)",
+    "postal_code": "24410"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Blang (Gampong Blang)",
+    "postal_code": "24416"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Blang Sinibong/Seunibong",
+    "postal_code": "24412"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Daulat (Gampong Daulat)",
+    "postal_code": "24416"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Jawa (Gampong Jawa)",
+    "postal_code": "24416"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Meutia (Gampong Mutia)",
+    "postal_code": "24416"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Paya Bujok Blang Pase",
+    "postal_code": "24414"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Peukan Langsa",
+    "postal_code": "24412"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Teungoh (Gampong Teungoh)",
+    "postal_code": "24416"
+  },
+  {
+    "id": 117403,
+    "province_id": 11,
+    "regency_id": 1174,
+    "district_id": 117403,
+    "value": "Tualang Teungoh",
+    "postal_code": "24414"
+  }
+]

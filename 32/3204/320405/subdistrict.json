@@ -1,0 +1,50 @@
+[
+  {
+    "id": 320405,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320405,
+    "value": "Cibiru Hilir",
+    "postal_code": "40626"
+  },
+  {
+    "id": 320405,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320405,
+    "value": "Cibiru Wetan",
+    "postal_code": "40625"
+  },
+  {
+    "id": 320405,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320405,
+    "value": "Cileunyi Kulon",
+    "postal_code": "40621"
+  },
+  {
+    "id": 320405,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320405,
+    "value": "Cileunyi Wetan",
+    "postal_code": "40622"
+  },
+  {
+    "id": 320405,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320405,
+    "value": "Cimekar",
+    "postal_code": "40623"
+  },
+  {
+    "id": 320405,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320405,
+    "value": "Cinunuk",
+    "postal_code": "40624"
+  }
+]

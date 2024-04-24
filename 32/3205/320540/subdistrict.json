@@ -1,0 +1,42 @@
+[
+  {
+    "id": 320540,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320540,
+    "value": "Cibiuk Kaler",
+    "postal_code": "44193"
+  },
+  {
+    "id": 320540,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320540,
+    "value": "Cibiuk Kidul",
+    "postal_code": "44193"
+  },
+  {
+    "id": 320540,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320540,
+    "value": "Cipareuan",
+    "postal_code": "44193"
+  },
+  {
+    "id": 320540,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320540,
+    "value": "Lingkungpasir",
+    "postal_code": "44193"
+  },
+  {
+    "id": 320540,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320540,
+    "value": "Majasari",
+    "postal_code": "44193"
+  }
+]

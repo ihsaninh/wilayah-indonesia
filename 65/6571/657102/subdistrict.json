@@ -1,0 +1,42 @@
+[
+  {
+    "id": 657102,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657102,
+    "value": "Kampung I Skip (Kampung Satu / Skip)",
+    "postal_code": "77113"
+  },
+  {
+    "id": 657102,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657102,
+    "value": "Pamusian",
+    "postal_code": "77113"
+  },
+  {
+    "id": 657102,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657102,
+    "value": "Sebengkok",
+    "postal_code": "77114"
+  },
+  {
+    "id": 657102,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657102,
+    "value": "Selumit",
+    "postal_code": "77113"
+  },
+  {
+    "id": 657102,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657102,
+    "value": "Selumit Pantai",
+    "postal_code": "77113"
+  }
+]

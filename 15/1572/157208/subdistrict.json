@@ -1,0 +1,50 @@
+[
+  {
+    "id": 157208,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157208,
+    "value": "Dusun Baru",
+    "postal_code": "37112"
+  },
+  {
+    "id": 157208,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157208,
+    "value": "Koto Tinggi",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157208,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157208,
+    "value": "Pelayang Raya",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157208,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157208,
+    "value": "Sumur Anyir",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157208,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157208,
+    "value": "Sungai Ning",
+    "postal_code": "37111"
+  },
+  {
+    "id": 157208,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157208,
+    "value": "Talang Lindung",
+    "postal_code": "37111"
+  }
+]

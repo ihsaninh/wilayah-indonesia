@@ -1,0 +1,42 @@
+[
+  {
+    "id": 130814,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130814,
+    "value": "Padang Mantinggi Utara",
+    "postal_code": "26355"
+  },
+  {
+    "id": 130814,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130814,
+    "value": "Padang Metinggi/Mantinggi",
+    "postal_code": "26355"
+  },
+  {
+    "id": 130814,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130814,
+    "value": "Taruang Taruang",
+    "postal_code": "26355"
+  },
+  {
+    "id": 130814,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130814,
+    "value": "Taruang Taruang Selatan",
+    "postal_code": "26355"
+  },
+  {
+    "id": 130814,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130814,
+    "value": "Taruang Taruang Utara",
+    "postal_code": "26355"
+  }
+]

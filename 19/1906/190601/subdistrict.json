@@ -1,0 +1,74 @@
+[
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Baru",
+    "postal_code": "33512"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Bentaian Jaya",
+    "postal_code": "33517"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Buku Limau (Pulau Buku Limau)",
+    "postal_code": "33511"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Kelubi",
+    "postal_code": "33517"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Kurnia Jaya",
+    "postal_code": "33512"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Lalang",
+    "postal_code": "33511"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Lalang Jaya",
+    "postal_code": "33511"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Mekar Jaya",
+    "postal_code": "33517"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190601,
+    "value": "Padang",
+    "postal_code": "33516"
+  }
+]

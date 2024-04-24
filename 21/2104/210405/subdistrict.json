@@ -1,0 +1,82 @@
+[
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Bukit Harapan",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Duara",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Limbung",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Linau",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Pancur",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Rantau Panjang",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Resun",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Resun Pesisir",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Sekanah",
+    "postal_code": "29874"
+  },
+  {
+    "id": 210405,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210405,
+    "value": "Sungaibesar (Sungai Besar)",
+    "postal_code": "29874"
+  }
+]

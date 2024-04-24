@@ -1,0 +1,90 @@
+[
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Boru",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Boru Kedang",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Hewa",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Hokeng Jaya",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Klatanlo",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Nawokote",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Nileknoheng",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Ojandetun",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Pantai Oa",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Pululera",
+    "postal_code": "86256"
+  },
+  {
+    "id": 530601,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530601,
+    "value": "Waiula",
+    "postal_code": "86256"
+  }
+]

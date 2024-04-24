@@ -1,0 +1,50 @@
+[
+  {
+    "id": 157105,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157105,
+    "value": "Arab Melayu",
+    "postal_code": "36251"
+  },
+  {
+    "id": 157105,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157105,
+    "value": "Jelmu",
+    "postal_code": "36253"
+  },
+  {
+    "id": 157105,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157105,
+    "value": "Mudung Laut",
+    "postal_code": "36252"
+  },
+  {
+    "id": 157105,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157105,
+    "value": "Tahtul Yaman",
+    "postal_code": "36255"
+  },
+  {
+    "id": 157105,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157105,
+    "value": "Tanjung Johor",
+    "postal_code": "36256"
+  },
+  {
+    "id": 157105,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157105,
+    "value": "Tengah",
+    "postal_code": "36254"
+  }
+]

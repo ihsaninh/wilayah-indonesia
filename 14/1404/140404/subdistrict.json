@@ -1,0 +1,66 @@
+[
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Pekan Arba",
+    "postal_code": "29212"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Seberang Tembilahan",
+    "postal_code": "29212"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Seberang Tembilahan Barat",
+    "postal_code": "29212"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Seberang Tembilahan Selatan",
+    "postal_code": "29212"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Sungaiberingin (Sungai Beringin)",
+    "postal_code": "29214"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Sungaiperak (Sungai Perak)",
+    "postal_code": "29212"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Tembilahan Hilir",
+    "postal_code": "29211"
+  },
+  {
+    "id": 140404,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140404,
+    "value": "Tembilahan Kota",
+    "postal_code": "29212"
+  }
+]

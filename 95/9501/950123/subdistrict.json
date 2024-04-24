@@ -1,0 +1,42 @@
+[
+  {
+    "id": 950123,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950123,
+    "value": "Kilubaga",
+    "postal_code": "99522"
+  },
+  {
+    "id": 950123,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950123,
+    "value": "Muliama",
+    "postal_code": "99522"
+  },
+  {
+    "id": 950123,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950123,
+    "value": "Musalfak",
+    "postal_code": "99522"
+  },
+  {
+    "id": 950123,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950123,
+    "value": "Punakul",
+    "postal_code": "99522"
+  },
+  {
+    "id": 950123,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950123,
+    "value": "Wenabubaga",
+    "postal_code": "99522"
+  }
+]

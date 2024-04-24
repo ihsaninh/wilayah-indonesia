@@ -1,0 +1,394 @@
+[
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Blekatuk",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Brengkol",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Dlisen Wetan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Dlisenkulon (Dlisen Kulon)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Girigondo",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Gumawangrejo",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kaligintung",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kaligondang",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kalijering",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kalikotes",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kalimati",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Karanganyar",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Karanggetas",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Keburusan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kedungbatur (Kedung Batur)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kembangkuning",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kendalrejo",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Kesawen",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Luweng Kidul",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Luwenglor (Luweng Lor)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Megulungkidul (Megulung Kidul)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Megulunglor (Megulung Lor)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Ngampel",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Ngandagan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Pamriyan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Pangkalan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Pekacangan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Pepe",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Petuguran",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Pituruh",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Polowangi",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Prapagkidul (Prapag Kidul)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Prapaglor (Prapag Lor)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Prigelan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Sambeng",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Sawangan",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Sekartejo",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Semampir",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Sikambang",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Somogede",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Sumber",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Tapen",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Tasikmadu",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Tersidikidul (Tersidi Kidul)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Tersidilor (Tersidi Lor)",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Tunjungtejo",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Waru",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Wonosido",
+    "postal_code": "54263"
+  },
+  {
+    "id": 330611,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330611,
+    "value": "Wonoyoso",
+    "postal_code": "54263"
+  }
+]
