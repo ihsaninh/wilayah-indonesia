@@ -1,0 +1,11 @@
+{
+  "name": "wilayah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ihsan Nurul Habib",
+  "license": "ISC"
+}
