@@ -2,10 +2,17 @@
   "name": "wilayah",
   "version": "1.0.0",
   "description": "",
-  "main": "generateApi.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Ihsan Nurul Habib",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihsaninh/wilayah-indonesia.git"
+  }
 }

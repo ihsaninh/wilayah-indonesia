@@ -76,4 +76,4 @@ provinces.forEach(province => {
     });
 });
 
-console.log('APIs generated successfully!');
+console.log('Generated successfully!');
