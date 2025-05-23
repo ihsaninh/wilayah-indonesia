@@ -65,7 +65,7 @@ provinces.forEach(province => {
 
             // Write data to subdistrict.json
             fs.writeFileSync(`./dist/${provinceId}/${regency[4]}/${district[5]}/subdistrict.json`, JSON.stringify(districtVillages.map(village => ({
-                id: parseInt(village[7]), // Assuming code is the second field
+                id: parseInt(village[6]), // Assuming code is the second field
                 province_id: parseInt(provinceId),
                 regency_id: parseInt(regency[4]),
                 district_id: parseInt(district[5]),
